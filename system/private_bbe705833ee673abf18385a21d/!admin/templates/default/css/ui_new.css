@@ -1,0 +1,8 @@
+.ui-accordion .ui-accordion-header .ui-icon { left:auto; right:3px; }
+
+.ui-datepicker-trigger {
+	position:absolute !important;
+	right:-27px !important;
+	top:3px !important;
+	cursor:pointer !important;
+}

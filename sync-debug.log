@@ -1,0 +1,15 @@
+=== sync-sales.php START 2025-04-21T13:24:07+00:00 ===
+Fetching PharmEmpire: https://pharmempire.com/index.php?service=api&api_key=N1TUFwNT0U2jgt9ZH1xEtZPtEnVWFjds&date_from=2025-04-21&date_to=2025-04-21&status=approved,waiting,rejected&format=json
+Raw response (first 500 chars):
+<!DOCTYPE html>
+<html class="main">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" href="includes/js/ui/jquery-ui.min.css">
+        <link rel="stylesheet" href="includes/css/css.css">
+        <script type="text/javascript" src="libraries/jquery/jquery-1.7.1.js"></script>
+        <script type="text/javascript" src="includes/js/ui/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="includes/js/js.j
+
+❌ JSON decode error: Syntax error
+

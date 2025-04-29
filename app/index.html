@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en" style="--main-color: #0957cf;">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VitalEase</title>
+
+    <!-- Updated manifest link -->
+    <link rel="manifest" href="/app/manifest.json">
+
+    <!-- Preconnect to Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="/app/style.css">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/app/icon.png">
+
+    <!-- OneSignal Scripts -->
+    <script src="/app/OneSignalSDK.page.js" defer=""></script>
+    <script type="module" src="/app/push-method.js"></script>
+    <script src="/app/OneSignalSDK.page.es6.js" defer=""></script>
+
+    <!-- Service Worker Registration -->
+    <script type="module">
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register("/app/sw.js", {scope: '/app/'}).then(function(registration) {
+                console.log('ServiceWorker registration successful with scope: ', registration.scope);
+            }).catch(function(error) {
+                console.log('ServiceWorker registration failed: ', error);
+            });
+        }
+    </script>
+
+    <!-- Hidden Content CSS -->
+    <style>.hidden-content {display: none !important;}</style>
+</head>
+<body>
+    <div class="open_animation">
+        <svg class="open_animation__svg" version="1.1" id="L3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 0 0" xml:space="preserve">
+            <circle fill="none" stroke="var(--main-color)" stroke-width="4" cx="50" cy="50" r="44" style="opacity:0.5;"></circle>
+            <circle fill="#fff" stroke="var(--main-color)" stroke-width="3" cx="8" cy="54" r="6">
+                <animatetransform attributeName="transform" dur="2s" type="rotate" from="0 50 48" to="360 50 52" repeatCount="indefinite"></animatetransform>
+            </circle>
+        </svg>
+        <div class="open_animation__content">
+            <p class="open_animation__text">Loading</p>
+        </div>
+    </div>
+    <div class="container">
+        <section class="top">
+            <div class="top__line">
+                <div class="top__line_left" id="buttonBack">
+                    <img src="/app/icon_arrow.svg" alt="">
+                </div>
+                <div class="top__line_right">
+                    <div class="zoom">
+                        <img src="/app/icon_zoom.svg" alt="">
+                    </div>
+                    <div class="menu">
+                        <img src="/app/icon_point.svg" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="title">
+                <div class="title__avatar">
+                    <img class="img-avatar" src="/app/icon.png" id="icon_pwa" alt="" style="border-radius: 12px;">
+                </div>
+                <div class="title__name">
+                    <p class="main_name" id="pwa_name" style="font-size: 19px;">VitalEase</p>
+                    <p class="name_down" id="developer_name">HEALUSLAB<img src="/app/verify-dev.webp" alt="" class="verify-dev"></p>
+                    <p class="name_down" id="categories_app" style="font-size: 11px; color: gray;">sport</p>
+                    <div class="counter">
+                        <text id="count" font-size="20">100%</text>
+                        <p>of <span id="size_app">7.2</span> MB</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="info_line">
+                <div class="infoElement">
+                    <div class="info_line__left">
+                        <p class="top_rating" style="display: flex; align-items: center;">4.8
+                            <svg enable-background="new 0 0 24 24" version="1.1" viewBox="0 0 24 24" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" style="width: 14px;">
+                                <g fill="none"><path d="M0,0h24v24H0V0z"></path><path d="M0,0h24v24H0V0z"></path></g>
+                                <path d="M12,17.27L18.18,21l-1.64-7.03L22,9.24l-7.19-0.61L12,2L9.19,8.63L2,9.24l5.46,4.73L5.82,21L12,17.27z"></path>
+                            </svg>
+                        </p>
+                        <p id="count_comment">254</p>
+                    </div>
+                </div>
+                <div class="infoElement">
+                    <div class="info_line__center">
+                        <div class="center">
+                            <div class="center__icon">
+                                <img src="/app/new_icon_downloads.svg" alt="">
+                            </div>
+                            <p><span id="second_size_app">7.2</span> MB</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="infoElement">
+                    <div class="info_line__right">
+                        <p class="age_user_app" id="age_user_app">
+                            <img src="/app/icon_18.webp" alt="">
+                        </p>
+                        <p class="age_text" id="age_text">Age</p>
+                    </div>
+                </div>
+                <div class="infoElement">
+                    <div class="info_line__right">
+                        <p class="amountInstall" id="amountInstall">5000+</p>
+                        <p id="install_text">Installed</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="btn-container">
+                <div class="btn js-first-button">
+                    <p class="btn__link firstButton" id="firstButton">Download</p>
+                </div>
+                <div class="loader" style="display: none;">
+                    <div class="loader_item"></div>
+                    <div class="loader_item"></div>
+                    <div class="loader_item"></div>
+                    <div class="loader_item"></div>
+                </div>
+            </div>
+        </section>
+
+        <section class="scroll_1">
+            <div class="scroll__container_1" id="scroll_banner">
+                <div class="item_1 js-event">
+                    <img src="/app/screen_1.png" alt="Screen" style="height: 160px;object-fit: contain;">
+                </div>
+                <div class="item_1 js-event">
+                    <img src="/app/screen_2.png" alt="Screen" style="height: 160px;object-fit: contain;">
+                </div>
+                <div class="item_1 js-event">
+                    <img src="/app/screen_3.png" alt="Screen" style="height: 160px;object-fit: contain;">
+                </div>
+            </div>
+        </section>
+
+        <section class="description">
+            <h1 id="title_description">Unlock Your Confidence with VitalEase!</h1>
+            <p id="text_description">With VitalEase, you can easily get the ED pills you need without a doctor’s visit. No appointments, no long waits – just fast, discreet delivery right to your door, VitalEase is here to help you rediscover your vitality and confidence...</p>
+        </section>
+
+        <section class="categories" id="list_categories"></section>
+
+        <section class="data_security">
+            <h1 id="dataSecurity_text">Security data</h1>
+            <div class="data_security__content">
+                <p><img src="/app/icon_share.svg" alt=""><span id="data_save_1">This application does not share data with third parties</span></p>
+                <p><img src="/app/icon_lock.svg" alt=""><span id="data_save_2">Data is encrypted during transmission</span></p>
+            </div>
+        </section>
+
+        <!-- Rating and Review Section -->
+        <section class="reviews">
+            <h1 id="title_review">Rating and review</h1>
+            <div class="rating">
+                <p class="rating__left">4.8</p>
+                <div class="rating__right">
+                    <div class="rating_block__chart-item">
+                        <span>5</span>
+                        <div class="rating_block__chart-bar">
+                            <p class="bar" style="width: 90%"></p>
+                            <p class="bg"></p>
+                        </div>
+                    </div>
+                    <div class="rating_block__chart-item">
+                        <span>4</span>
+                        <div class="rating_block__chart-bar">
+                            <p class="bar" style="width: 50%"></p>
+                            <p class="bg"></p>
+                        </div>
+                    </div>
+                    <div class="rating_block__chart-item">
+                        <span>3</span>
+                        <div class="rating_block__chart-bar">
+                            <p class="bar" style="width: 20%"></p>
+                            <p class="bg"></p>
+                        </div>
+                    </div>
+                    <div class="rating_block__chart-item">
+                        <span>2</span>
+                        <div class="rating_block__chart-bar">
+                            <p class="bar" style="width: 17%"></p>
+                            <p class="bg"></p>
+                        </div>
+                    </div>
+                    <div class="rating_block__chart-item">
+                        <span>1</span>
+                        <div class="rating_block__chart-bar">
+                            <p class="bar" style="width: 8%"></p>
+                            <p class="bg"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="rating__stars">
+                <div class="stars">
+                    <div class="stars-landing" id="stars-box" style="--rating: 4.8;"></div>
+                </div>
+                <p class="stars__content" id="second_count_comments">254</p>
+            </div>
+        </section>
+
+        <!-- Comments Section -->
+        <section class="comments" id="comments_block">
+            <div class="PreviewReview" data-key-id="0">
+                <div class="PreviewReview__InfoUser">
+                    <p class="PreviewReview__Container_Logo" style="background-color: rgba(68, 81, 134, .9)">
+                        <img src="/app/55.jpg" alt="" class="PreviewReview__Logo" style="display:inline-block; object-fit: cover;">
+                        <span class="PreviewReview__Symbol" style="display:none">O</span>
+                    </p>
+                    Orion
+                </div>
+                <div class="PreviewReview__NameDeveloper">
+                    <div class="star-rating">
+                        <div class="stars-landing" style="--rating: 4.69"></div>
+                    </div>
+                    <p style="margin-left: 15px;">27.04.25</p>
+                </div>
+                <div class="PreviewReview__ReviewTextContainer">
+                    <p class="PreviewReview__TextReview">De interface is gebruiksvriendelijk en mooi. Goed gedaan!</p>
+                    <div class="PreviewReview__TextResponseDeveloper" style="display: block">
+                        <p class="DeveloperResponse_title">
+                            <span>Developer</span>
+                            <span>27.04.25</span>
+                        </p>
+                        We waarderen je compliment! We streven naar een soepele gebruikerservaring.
+                    </div>
+                </div>
+                <p class="comment_review">
+                    <span>27</span> <span class="helpful-comment">people found this review helpful.</span>
+                </p>
+                <div class="comment_question">
+                    <p class="comment_question__content">Was this information useful to you?</p>
+                    <div class="btn_container">
+                        <div class="comment_btn btn__yes">Yes</div>
+                        <div class="comment_btn btn__no">No</div>
+                    </div>
+                </div>
+            </div>
+            <div class="btn_show-all-review" style="display: none">Show all reviews</div>
+        </section>
+
+        <!-- Recommended Apps Section -->
+        <section class="recommended_apps" id="blockRecommendedApp" style="display: none;">
+            <h1 class="recommended_apps_title">
+                <span id="developer_name_recommended">HEALUSLAB</span>:
+                <span id="developer_name_text_another">Other applications</span>
+            </h1>
+            <div class="recommended_scroll__container" id="recommended_app_list"></div>
+        </section>
+    </div>
+
+    <!-- Scripts -->
+    <script src="/app/jquery.min.js"></script>
+    <script src="/app/uaParser.js"></script>
+    <script type="module" src="/app/translate.js"></script>
+    <script id="promptScript" type="module" src="/app/prompt.js"></script>
+    <script id="rootScript" type="module" src="/app/main-function.js"></script>
+</body>
+</html>

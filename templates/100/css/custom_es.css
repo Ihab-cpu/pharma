@@ -1,0 +1,20 @@
+#menu li a { font-size: 12px; max-width: 120px; text-align: center; padding: 22px 12px; }
+#menu li.b4 a { padding: 18px 13px 42px 13px; }
+#menu li.b4 a.active { padding-top: 31px; }
+#menu,
+.e .add-to-cart,
+.dosage_table .add-to-cart,
+.special-offer,
+.change-lang div,
+.hot-info,
+.logo { background-image: url("../img/s_es.gif"); }
+#subMenu .b1 { background-image: url(../img/b1_es.gif); }
+
+#footer ul li { min-height: 50px; vertical-align: top; max-width: 114px; position: relative; top: -7px; }
+
+.basket i { background-image: url("../img/s_es.gif") }
+.special-offer span { padding-left: 279px; font-size: 20px; }
+
+#footer ul li { max-width: 90px;  }
+#footer ul li.p4 { max-width: 110px; }
+#footer ul li a { padding-left: 10px; padding-right: 10px; }

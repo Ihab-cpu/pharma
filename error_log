@@ -1,0 +1,171 @@
+[21-Apr-2025 13:05:06 UTC] ❌ sync-sales: invalid JSON from PharmEmpire
+[21-Apr-2025 13:10:56 UTC] ❌ sync-sales: invalid JSON from PharmEmpire
+[21-Apr-2025 13:10:59 UTC] ❌ sync-sales: invalid JSON from PharmEmpire
+[21-Apr-2025 13:17:57 UTC] ℹ️ sync-sales: raw API response: <!DOCTYPE html>
+<html class="main">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" href="includes/js/ui/jquery-ui.min.css">
+        <link rel="stylesheet" href="includes/css/css.css">
+        <script type="text/javascript" src="libraries/jquery/jquery-1.7.1.js"></script>
+        <script type="text/javascript" src="includes/js/ui/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="includes/js/js.js"></script>
+        <script src="includes/js/backstretch/jquery.backstretch.min.js"></script>
+        <script type="text/javascript">
+        
+        $(document).ready(function(){
+
+            pic_file_prefix = 'o';
+            w = $(window).width();
+            if ( w < 1250 ) {
+                pic_file_prefix = 1250;
+            }
+            if ( w < 1024 ) {
+                pic_file_prefix = 1024;
+            }
+            if ( w < 600 ) {
+                pic_file_prefix = 600;
+            }
+            if ( w < 400 ) {
+                pic_file_prefix = 400;
+            }
+            /*
+            $.backstretch([
+                                    '/upload/banners/' + pic_file_prefix + '_1413622277_014.jpg',                                    '/upload/banners/' + pic_file_prefix + '_1413623694_664.jpg',                                    '/upload/banners/' + pic_file_prefix + '_1413622393_793.jpg'                            ], {
+                fade: 1250,
+                duration: 4000
+            });
+            */
+            $.backstretch([
+            "includes/images/main_best.jpg"
+            ], {
+            fade: 750,
+            duration: 4000
+            });
+        });
+        
+    </script>
+    </head>
+    <body class="main_page">
+            <input type="submit" value="Sign In" onclick="window.location='index.php?page=signin'" class="signIn btn">
+            <a href="index.php?page=signup" class="signUp"><b>Sign Up</b></a>
+    </body>
+</html>
+[21-Apr-2025 13:17:57 UTC] ❌ sync-sales: JSON decode error: Syntax error
+[21-Apr-2025 13:19:59 UTC] ℹ️ sync-sales: raw API response: <!DOCTYPE html>
+<html class="main">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" href="includes/js/ui/jquery-ui.min.css">
+        <link rel="stylesheet" href="includes/css/css.css">
+        <script type="text/javascript" src="libraries/jquery/jquery-1.7.1.js"></script>
+        <script type="text/javascript" src="includes/js/ui/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="includes/js/js.js"></script>
+        <script src="includes/js/backstretch/jquery.backstretch.min.js"></script>
+        <script type="text/javascript">
+        
+        $(document).ready(function(){
+
+            pic_file_prefix = 'o';
+            w = $(window).width();
+            if ( w < 1250 ) {
+                pic_file_prefix = 1250;
+            }
+            if ( w < 1024 ) {
+                pic_file_prefix = 1024;
+            }
+            if ( w < 600 ) {
+                pic_file_prefix = 600;
+            }
+            if ( w < 400 ) {
+                pic_file_prefix = 400;
+            }
+            /*
+            $.backstretch([
+                                    '/upload/banners/' + pic_file_prefix + '_1413622277_014.jpg',                                    '/upload/banners/' + pic_file_prefix + '_1413623694_664.jpg',                                    '/upload/banners/' + pic_file_prefix + '_1413622393_793.jpg'                            ], {
+                fade: 1250,
+                duration: 4000
+            });
+            */
+            $.backstretch([
+            "includes/images/main_best.jpg"
+            ], {
+            fade: 750,
+            duration: 4000
+            });
+        });
+        
+    </script>
+    </head>
+    <body class="main_page">
+            <input type="submit" value="Sign In" onclick="window.location='index.php?page=signin'" class="signIn btn">
+            <a href="index.php?page=signup" class="signUp"><b>Sign Up</b></a>
+    </body>
+</html>
+[21-Apr-2025 13:19:59 UTC] ❌ sync-sales: JSON decode error: Syntax error
+[21-Apr-2025 13:20:01 UTC] ℹ️ sync-sales: raw API response: <!DOCTYPE html>
+<html class="main">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" href="includes/js/ui/jquery-ui.min.css">
+        <link rel="stylesheet" href="includes/css/css.css">
+        <script type="text/javascript" src="libraries/jquery/jquery-1.7.1.js"></script>
+        <script type="text/javascript" src="includes/js/ui/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="includes/js/js.js"></script>
+        <script src="includes/js/backstretch/jquery.backstretch.min.js"></script>
+        <script type="text/javascript">
+        
+        $(document).ready(function(){
+
+            pic_file_prefix = 'o';
+            w = $(window).width();
+            if ( w < 1250 ) {
+                pic_file_prefix = 1250;
+            }
+            if ( w < 1024 ) {
+                pic_file_prefix = 1024;
+            }
+            if ( w < 600 ) {
+                pic_file_prefix = 600;
+            }
+            if ( w < 400 ) {
+                pic_file_prefix = 400;
+            }
+            /*
+            $.backstretch([
+                                    '/upload/banners/' + pic_file_prefix + '_1413622277_014.jpg',                                    '/upload/banners/' + pic_file_prefix + '_1413623694_664.jpg',                                    '/upload/banners/' + pic_file_prefix + '_1413622393_793.jpg'                            ], {
+                fade: 1250,
+                duration: 4000
+            });
+            */
+            $.backstretch([
+            "includes/images/main_best.jpg"
+            ], {
+            fade: 750,
+            duration: 4000
+            });
+        });
+        
+    </script>
+    </head>
+    <body class="main_page">
+            <input type="submit" value="Sign In" onclick="window.location='index.php?page=signin'" class="signIn btn">
+            <a href="index.php?page=signup" class="signUp"><b>Sign Up</b></a>
+    </body>
+</html>
+[21-Apr-2025 13:20:01 UTC] ❌ sync-sales: JSON decode error: Syntax error
+[21-Apr-2025 13:55:41 UTC] ❌ sync-sales: invalid JSON from PharmEmpire
+[21-Apr-2025 14:06:19 UTC] sync-sales: unexpected JSON structure
+[21-Apr-2025 14:06:29 UTC] sync-sales: unexpected JSON structure
+[21-Apr-2025 14:07:37 UTC] sync-sales: unexpected JSON structure
+[21-Apr-2025 14:07:46 UTC] sync-sales: unexpected JSON structure
+[21-Apr-2025 14:15:58 UTC] sync-sales: unexpected JSON structure for status approved
+[21-Apr-2025 14:15:58 UTC] sync-sales: unexpected JSON structure for status waiting
+[21-Apr-2025 14:15:58 UTC] sync-sales: unexpected JSON structure for status declined
+[21-Apr-2025 14:16:04 UTC] sync-sales: unexpected JSON structure for status approved
+[21-Apr-2025 14:16:04 UTC] sync-sales: unexpected JSON structure for status waiting
+[21-Apr-2025 14:16:05 UTC] sync-sales: unexpected JSON structure for status declined
+[22-Apr-2025 08:17:36 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/crmusbwm/public_html/fb-capi.php on line 29
+[22-Apr-2025 08:40:38 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/crmusbwm/public_html/fb-capi.php on line 29
+[22-Apr-2025 08:55:11 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/crmusbwm/public_html/fb-capi.php on line 29
+[23-Apr-2025 06:26:22 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/crmusbwm/public_html/fb-capi.php on line 29

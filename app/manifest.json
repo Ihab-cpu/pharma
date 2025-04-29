@@ -1,0 +1,23 @@
+{
+  "short_name": "VitalEase",
+  "name": "VitalEase - Install Now",
+  "icons": [
+    {
+      "src": "/app/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/app/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://adv-rl.com/ZBRsbrsF",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0957cf",
+  "scope": "/",
+  "description": "Unlock Your Confidence with VitalEase. Fast, discreet delivery of ED pills, straight to your door.",
+  "orientation": "portrait"
+}

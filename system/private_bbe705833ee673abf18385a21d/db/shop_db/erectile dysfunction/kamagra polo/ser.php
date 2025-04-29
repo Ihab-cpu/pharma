@@ -1,0 +1,63 @@
+a:17:{s:4:"name";s:12:"Kamagra Polo";s:11:"small_descr";s:63:"Kamagra is indicated for the treatment of erectile dysfunction.";s:14:"small_descr_de";s:62:"Kamagra wird empfohlen, um erektile Dysfunktion zu behandeln. ";s:14:"small_descr_fr";s:69:"Kamagra est indiquée pour le traitement de la dysfonction érectile.";s:14:"small_descr_es";s:67:"Kamagra es indicada para el tratamiento de la disfunción eréctil.";s:14:"small_descr_it";s:66:"Kamagra è indicato per il trattamento della disfunzione erettile.";s:10:"full_descr";s:8868:"<p><strong>INDICATIONS</strong></p>
+<p>Kamagra is indicated for the treatment of erectile dysfunction. Kamagra increases blood flow to the penis, allowing more blood flow into the penis, like happened naturally, when a man is sexually stimulated. With more blood flowing in and less flowing out, the arteries in the penis enlarge, resulting in an erection.</p>
+<p><strong>INSTRUCTIONS </strong></p>
+<p>Use Kamagra as directed by your doctor.</p>
+<ul>
+<li>Take Kamagra by mouth with or without food. Kamagra may not work as quickly if you take it with a high-fat meal.</li>
+<li>Kamagra is rapidly absorbed. Maximum effect occurs between 30 to 120 minutes of taking the tablet.</li>
+<li>Kamagra can help you have an erection when sexual stimulation occurs. An erection will not occur just by taking a pill.</li>
+<li>Do not take more than the recommended dose or take it more often than once daily, or as directed by your doctor.</li>
+<li>If you miss a dose of Kamagra and you still intend to engage in sexual activity, take it as soon as you remember. Continue to take it as directed by your doctor.</li>
+</ul>
+<p><strong>DOSAGE </strong></p>
+<p>The recommended dose is 50 mg, taken as needed, approximately 1 hour before sexual activity. Based on effectiveness and tolerance, the dose may be increased to a maximum recommended dose of 100 mg, or decreased to 25 mg.</p>
+<p>Ask your health care provider any questions you may have about how to use Kamagra.</p>
+<p><strong>STORAGE</strong></p>
+<p>Store Kamagra at room temperature between 59 and 86 degrees F (15-30 degrees C) away from moisture, heat and light. Store Kamagra out of the reach of children.</p>
+<p><strong>MORE INFO:</strong></p>
+<p>Active Ingredient:<strong> </strong>Sildenafil.</p><p><strong>SAFETY INFORMATION</strong></p><p><strong>Do NOT use Kamagra if:</strong></p>
+<ul>
+<li>you are allergic to any ingredient in Kamagra </li>
+<li>you have been advised by your doctor to avoid sexual activity because of heart problems</li>
+<li>you are taking nitrates (eg, isosorbide, nitroglycerin) in any form (eg, tablet, capsule, patch, ointment), or nitroprusside</li>
+<li>you use certain recreational drugs called "poppers" (eg, amyl nitrate or nitrite, butyl nitrate or nitrite)</li>
+<li>you take another PDE5 inhibitor (eg, tadalafil, vardenafil) or another medicine that contains sildenafil.</li>
+</ul>
+<p>Contact your doctor or health care provider right away if any of these apply to you.</p>
+<p>Some medical conditions may interact with Kamagra. Tell your doctor or pharmacist if you have any medical conditions, especially if any of the following apply to you:</p>
+<ul>
+<li>if you are taking any prescription or nonprescription medicine, herbal preparation, or dietary supplement</li>
+<li>if you have allergies to medicines, foods, or other substances</li>
+<li>if you have a deformed penis (eg, cavernosal fibrosis, Peyronie disease), blood cell problems (eg, leukemia, multiple myeloma, sickle cell anemia), or any other condition that may increase the risk of a prolonged erection (priapism)</li>
+<li>if you have a history of a prolonged (more than 4 hours) or painful erection (priapism)</li>
+<li>if you have a history of certain eye problems (eg, macular degeneration, optic neuropathy, retinitis pigmentosa, sudden vision loss in one or both eyes) or hearing problems (eg, ringing in the ears, decreased hearing, hearing loss)</li>
+<li>if you have a history of liver or kidney problems, lung problems (eg, pulmonary veno-occlusive disease), high or low blood pressure, ulcers, bleeding problems, heart problems (eg, angina, aortic stenosis, heart failure, irregular heartbeat), or blood vessel problems</li>
+<li>if you have a history of heart attack, stroke, or life-threatening irregular heartbeat, especially within the past 6 months.</li>
+</ul>
+<p>Some medicines may interact with Kamagra. Tell your health care provider if you are taking any other medicines, especially any of the following:</p>
+<ul>
+<li>Alpha-blockers (eg, doxazosin), medicines for high blood pressure, nitrates (eg, isosorbide, nitroglycerin), or nitroprusside because severe low blood pressure with dizziness, lightheadedness, and fainting may occur</li>
+<li>Azole antifungals (eg, itraconazole, ketoconazole), H<sub>2</sub> antagonists (eg, cimetidine), HIV protease inhibitors (eg, ritonavir, saquinavir), macrolide antibiotics (eg, erythromycin), narcotic analgesics (eg, dihydrocodeine), or telithromycin because they may increase the risk of Kamagra's side effects</li>
+<li>Bosentan or rifampin because they may decrease Kamagra's effectiveness.</li>
+</ul>
+<p>This may not be a complete list of all interactions that may occur. Ask your health care provider if Kamagra may interact with other medicines that you take. Check with your health care provider before you start, stop, or change the dose of any medicine.</p>
+<h3>Important safety information:</h3>
+<ul>
+<li>Kamagra may cause dizziness, drowsiness, fainting, or blurred vision. These effects may be worse if you take it with alcohol or certain medicines. Use Kamagra with caution. Do not drive or perform other possible unsafe tasks until you know how you react to it.</li>
+<li>Kamagra may cause dizziness, lightheadedness, or fainting; alcohol, hot weather, exercise, or fever may increase these effects. To prevent them, sit up or stand slowly, especially in the morning. Sit or lie down at the first sign of any of these effects.</li>
+<li>Patients with heart problems who take Kamagra may be at increased risk for heart-related side effects, including heart attack or stroke. Symptoms of a heart attack may include chest, shoulder, neck, or jaw pain; numbness of an arm or leg; severe dizziness, headache, nausea, stomach pain, or vomiting; fainting; or vision changes. Symptoms of a stroke may include confusion, vision or speech changes, one-sided weakness, or fainting. Contact your doctor or seek medical attention right away if you experience these symptoms.</li>
+<li>Kamagra may rarely cause a prolonged (eg, more than 4 hours) or painful erection. This could happen even when you are not having sex. If this is not treated right away, it could lead to permanent sexual problems such as impotence. Contact your doctor right away if you have an erection that lasts more than 4 hours.</li>
+<li>Kamagra does not stop the spread of HIV or other sexually transmitted diseases (STDs) to others through sexual contact. Use barrier methods of birth control (eg, condoms) if you have HIV infection or an STD.</li>
+<li>Kamagra will not prevent pregnancy. If your partner may become pregnant and you wish to avoid pregnancy, be sure to use an effective form of birth control.</li>
+<li>Kamagra may uncommonly cause mild, temporary vision changes (eg, blurred vision, sensitivity to light, blue/green color tint to vision). Contact your doctor if vision changes persist or are severe.</li>
+<li>Rarely, an eye problem called nonarteritic anterior ischemic optic neuropathy (NAION) has been reported in patients who took Kamagra. This may lead to decreased vision or permanent loss of vision in some cases. If you notice a sudden decrease in vision or loss of vision in one or both eyes, contact your doctor right away.</li>
+<li>Sudden decreases in hearing and loss of hearing have been reported in some patients who have taken Kamagra. Sometimes they also noticed ringing in the ears or dizziness. If you notice a sudden decrease or loss of hearing, contact your doctor right away.</li>
+<li>Do not use other medicines or treatments for ED while you are taking Kamagra without first checking with your doctor.</li>
+<li>Use Kamagra with caution in the elderly; they may be more sensitive to its effects.</li>
+<li>Kamagra is not recommended for use in children. </li>
+</ul><p><strong>SIDE EFFECTS</strong></p><p>All medicines may cause side effects, but many people have no, or minor, side effects.</p>
+<p>Check with your doctor if any of these most common side effects persist or become bothersome:</p>
+<p>Diarrhea; dizziness; flushing; headache; heartburn; stuffy nose; upset stomach.</p>
+<p>Seek medical attention right away if any of these severe side effects occur:</p>
+<p>Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); chest pain; fainting; fast or irregular heartbeat; memory loss; numbness of an arm or leg; one-sided weakness; painful or prolonged erection; ringing in the ears; seizure; severe or persistent dizziness; severe or persistent vision changes; sudden decrease or loss of hearing; sudden decrease or loss of vision in one or both eyes.</p>
+<p>This is not a complete list of all side effects that may occur. If you have questions about side effects, contact your health care provider.</p>";s:13:"full_descr_de";s:0:"";s:13:"full_descr_fr";s:0:"";s:13:"full_descr_es";s:0:"";s:13:"full_descr_it";s:0:"";s:9:"min_price";s:8:"1.580192";s:9:"pack_name";s:5:"pills";s:4:"type";s:2:"mg";s:7:"analogs";a:45:{s:6:"Viagra";s:20:"Erectile Dysfunction";s:12:"Brand Viagra";s:20:"Erectile Dysfunction";s:19:"Viagra Professional";s:20:"Erectile Dysfunction";s:19:"Viagra Super Active";s:20:"Erectile Dysfunction";s:18:"Extra Super Viagra";s:20:"Erectile Dysfunction";s:11:"Viagra Soft";s:20:"Erectile Dysfunction";s:7:"Kamagra";s:20:"Erectile Dysfunction";s:13:"Female Viagra";s:14:"Woman's Health";s:8:"Sildalis";s:12:"Men's Health";s:8:"Silvitra";s:20:"Erectile Dysfunction";s:20:"Kamagra Effervescent";s:20:"Erectile Dysfunction";s:13:"Kamagra Super";s:20:"Erectile Dysfunction";s:11:"Malegra FXT";s:12:"Men's Health";s:16:"Malegra FXT Plus";s:12:"Men's Health";s:11:"Malegra DXT";s:12:"Men's Health";s:16:"Malegra DXT Plus";s:20:"Erectile Dysfunction";s:12:"Super Viagra";s:20:"Erectile Dysfunction";s:7:"Penegra";s:12:"Men's Health";s:12:"Kamagra Soft";s:12:"Men's Health";s:18:"Kamagra Oral Jelly";s:12:"Men's Health";s:12:"Kamagra Gold";s:12:"Men's Health";s:19:"Viagra Extra Dosage";s:20:"Erectile Dysfunction";s:16:"Kamagra Chewable";s:12:"Men's Health";s:8:"Nizagara";s:20:"Erectile Dysfunction";s:11:"Viagra Plus";s:20:"Erectile Dysfunction";s:8:"Cenforce";s:20:"Erectile Dysfunction";s:21:"Cenforce Professional";s:20:"Erectile Dysfunction";s:7:"Silagra";s:20:"Erectile Dysfunction";s:13:"Cenforce Soft";s:20:"Erectile Dysfunction";s:10:"Cenforce-D";s:20:"Erectile Dysfunction";s:12:"Viagra Jelly";s:20:"Erectile Dysfunction";s:7:"Zenegra";s:20:"Erectile Dysfunction";s:17:"Viagra Sublingual";s:20:"Erectile Dysfunction";s:7:"Suhagra";s:20:"Erectile Dysfunction";s:7:"Caverta";s:20:"Erectile Dysfunction";s:8:"Lady era";s:14:"Woman's Health";s:21:"Viagra Soft Flavoured";s:20:"Erectile Dysfunction";s:13:"Super P-Force";s:20:"Erectile Dysfunction";s:24:"Super P-Force Oral Jelly";s:20:"Erectile Dysfunction";s:10:"Red Viagra";s:20:"Erectile Dysfunction";s:13:"Viagra Vigour";s:20:"Erectile Dysfunction";s:7:"Eriacta";s:20:"Erectile Dysfunction";s:7:"Fildena";s:20:"Erectile Dysfunction";s:7:"Aurogra";s:20:"Erectile Dysfunction";s:8:"Sildigra";s:20:"Erectile Dysfunction";}s:18:"active_ingredients";N;s:8:"packings";a:1:{i:100;a:6:{i:7037;a:5:{s:10:"id_packing";s:4:"7037";s:5:"count";s:2:"30";s:6:"dosage";d:100;s:14:"price_per_pill";s:6:"3.4352";s:4:"name";s:12:"Kamagra Polo";}i:7038;a:5:{s:10:"id_packing";s:4:"7038";s:5:"count";s:2:"60";s:6:"dosage";d:100;s:14:"price_per_pill";s:7:"2.39176";s:4:"name";s:12:"Kamagra Polo";}i:7039;a:5:{s:10:"id_packing";s:4:"7039";s:5:"count";s:2:"90";s:6:"dosage";d:100;s:14:"price_per_pill";s:7:"2.04394";s:4:"name";s:12:"Kamagra Polo";}i:7040;a:5:{s:10:"id_packing";s:4:"7040";s:5:"count";s:3:"120";s:6:"dosage";d:100;s:14:"price_per_pill";s:7:"1.87004";s:4:"name";s:12:"Kamagra Polo";}i:7041;a:5:{s:10:"id_packing";s:4:"7041";s:5:"count";s:3:"180";s:6:"dosage";d:100;s:14:"price_per_pill";s:7:"1.69613";s:4:"name";s:12:"Kamagra Polo";}i:7042;a:5:{s:10:"id_packing";s:4:"7042";s:5:"count";s:3:"270";s:6:"dosage";d:100;s:14:"price_per_pill";s:7:"1.58019";s:4:"name";s:12:"Kamagra Polo";}}}}

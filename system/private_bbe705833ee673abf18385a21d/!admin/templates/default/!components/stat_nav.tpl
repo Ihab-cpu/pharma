@@ -1,0 +1,6 @@
+<ul class="nav nav-tabs" id="myXTab">
+	<li{if $smarty.get.type == 'stat_date' || !$smarty.get.type} class="active"{/if}><a href="?p=stat_total&type=stat_date{if $smarty.get.date_start}&date_start={$smarty.get.date_start|escape}{/if}{if $smarty.get.date_end}&date_end={$smarty.get.date_end|escape}{/if}">Date</a></li>
+	<li{if $smarty.get.type == 'stat_shop'} class="active"{/if}><a href="?p=stat_total&type=stat_shop{if $smarty.get.date_start}&date_start={$smarty.get.date_start|escape}{/if}{if $smarty.get.date_end}&date_end={$smarty.get.date_end|escape}{/if}">Shops</a></li>
+	<li{if $smarty.get.type == 'referer_url' || $smarty.get.type == 'referer_domain'} class="active"{/if}><a href="?p=stat_total&type=referer_url{if $smarty.get.date_start}&date_start={$smarty.get.date_start|escape}{/if}{if $smarty.get.date_end}&date_end={$smarty.get.date_end|escape}{/if}">Referers</a></li>
+	<li{if $smarty.get.type == 'orders_products'} class="active"{/if}><a href="?p=stat_total&type=orders_products{if $smarty.get.date_start}&date_start={$smarty.get.date_start|escape}{/if}{if $smarty.get.date_end}&date_end={$smarty.get.date_end|escape}{/if}">Orders</a></li>
+</ul>

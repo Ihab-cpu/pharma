@@ -1,0 +1,9 @@
+.backet_table .inpX { background: none }
+.backet_table .inpX div { background: none }
+.backet_table .inpX input { background: none; border: solid 1px #d3d3d3; padding: 2px 3px !important;
+    height: auto; line-height: normal; margin: 3px 0 0 0 }
+.discount_table { position: absolute; top: -12px; }
+.discount_table .btn { position: relative; top: 1px; }
+body {
+
+}

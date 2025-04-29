@@ -1,0 +1,16 @@
+.main-menu li a { padding-right: 11px; padding-left: 11px; }
+.lang-and-currency { padding-left: 0; }
+.shopping-cart { margin-right: 155px; }
+.footer .add-menu li a { padding-right: 12px; padding-left: 12px; }
+.footer .add-menu li:last-child a { border: none; padding-right: 16px; }
+.special-offer {
+    background-image: url(../img/special_offer_fr.gif);
+    height: 56px;
+    padding: 25px 50px 0 0;
+    font-size: 17px;
+    font-weight: normal;
+}
+
+.best-sides .e:first-child { padding-top: 8px; padding-bottom: 8px  }
+.best-sides .tit-green { font-size: 13px; text-transform: capitalize }
+.add-to-cart { white-space: nowrap; }

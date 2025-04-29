@@ -1,0 +1,7 @@
+"v 1.027.txt" show_tree_price set default=1
+"v 1.026.txt" last db
+"v 1.027.txt" fixed geo ip bug
+"v 1.028.txt" new smarty
+"v 1.029.txt" fixed custom description
+"v 1.030.txt" fixed custom JS
+"v 1.030.txt" fixed search with prefix and postfix

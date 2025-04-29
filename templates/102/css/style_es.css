@@ -1,0 +1,16 @@
+.main-menu li a { padding-right: 17px; padding-left: 17px; }
+.main-menu li:last-child a { border: none; }
+.lang-and-currency { padding-left: 0; }
+.shopping-cart { margin-right: 155px; }
+.footer .add-menu li a { padding-right: 10px; padding-left: 11px; }
+.footer .add-menu li:last-child a { border: none; padding-right: 22px; }
+
+.special-offer {
+    background-image: url(../img/special_offer_es.gif);
+    height: 56px;
+    padding: 25px 50px 0 0;
+    font-size: 17px;
+    font-weight: normal;
+}
+.best-sides .e { padding-top: 8px; padding-bottom: 8px  }
+.best-sides .tit-green { font-size: 13px; text-transform: capitalize }

@@ -1,0 +1,10 @@
+.best-sides,
+.main-menu { float: left; width: 100%; }
+.best-sides { padding: 29px 0 0 0; }
+.main-menu li a { }
+.search-by-letters a { display: block; float: left }
+.footer .add-menu li { display: block; float: left }
+.footer .add-menu li a { padding-left: 36px; padding-right: 36px; }
+.bonusBox .e input { top: -9px; }
+#checkout {  position: relative; top: -44px; }
+.analogs div { float: left; margin-right: 5px; }

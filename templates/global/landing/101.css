@@ -1,0 +1,411 @@
+.mysjprefix_main {
+
+}
+.mysjprefix_menu {
+    border-radius: 27px;
+    overflow: hidden;
+    display: table;
+    width: 100%;
+    margin: 20px 0 0 0;
+}
+
+.mysjprefix_menu .mysjprefix_menu_ul {
+    display: table-row;
+
+}
+
+.mysjprefix_menu .mysjprefix_menu_ul li {
+    background: #f0f0f0;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f7f9fb+0,b2bdd4+51,9caac5+56,8595b2+100 */
+    background: #f7f9fb; /* Old browsers */
+    background: -moz-linear-gradient(top,  #f7f9fb 0%, #b2bdd4 51%, #9caac5 56%, #8595b2 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #f7f9fb 0%,#b2bdd4 51%,#9caac5 56%,#8595b2 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #f7f9fb 0%,#b2bdd4 51%,#9caac5 56%,#8595b2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f9fb', endColorstr='#8595b2',GradientType=0 ); /* IE6-9 */
+    color: #1c4281;
+    text-shadow: 1px 1px #fff;
+    text-transform: uppercase;
+
+    border-top: solid 1px #fff;
+    display: table-cell;
+    text-align: center;
+    font-size: 16px;
+}
+
+.mysjprefix_menu .mysjprefix_menu_ul li a {
+    display: block;
+    padding: 21px 10px 21px 10px;
+    text-decoration: none;
+}
+
+.mysjprefix_menu .mysjprefix_menu_ul li a:hover {
+    background: #bb5231;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#640f0f+0,fcfbfb+0,b27171+37,883737+69,640f0f+100 */
+    background: #640f0f; /* Old browsers */
+    background: -moz-linear-gradient(top,  #640f0f 0%, #fcfbfb 0%, #b27171 37%, #883737 69%, #640f0f 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #640f0f 0%,#fcfbfb 0%,#b27171 37%,#883737 69%,#640f0f 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #640f0f 0%,#fcfbfb 0%,#b27171 37%,#883737 69%,#640f0f 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#640f0f', endColorstr='#640f0f',GradientType=0 ); /* IE6-9 */
+    text-shadow: 1px 1px #582c31;
+    color: #fff;
+}
+
+.mysjprefix_strong-sides {
+
+}
+
+.mysjprefix_strong-sides table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.mysjprefix_strong-sides table td {
+    font-weight: bold;
+    color: #397615;
+}
+
+.mysjprefix_strong-sides td {
+    text-align: center;
+}
+
+.mysjprefix_mega-discount {
+    display: none;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.mysjprefix_current_product .mysjprefix_old {
+    color: #c9c9c9;
+    text-decoration: line-through;
+}
+
+.mysjprefix_current_product {
+    font: 12px Arial, Helvetica, sans-serif;
+}
+
+.mysjprefix_payments {
+    text-align: center;
+}
+.mysjprefix_payments img {
+    margin: 0 3px 0 3px;
+}
+
+.mysjprefix_current_product {
+    margin: 0px auto;
+    padding: 0px;
+    outline: none;
+}
+
+#toTop {
+    display: none;
+}
+
+#toFullVersion {
+    display: none;
+}
+
+#toMobileVersion {
+    margin: 0px 0 0 0;
+    display: block;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    background: #102850;
+    color: #fff;
+    cursor: pointer;
+    display: none;
+    min-width: 961px;
+}
+
+#toMobileVersion:focus,
+#toMobileVersion:active {
+    opacity: 0.8;
+}
+
+#tit-big {
+    display: none;
+}
+
+.mysjprefix_cat_list a .mysjprefix_buy {
+    display: none;
+}
+
+.mysjprefix_clear {
+    display: block;
+    clear: both;
+    height: 0px;
+    visibility: hidden;
+    overflow: hidden;
+}
+
+td {
+    vertical-align: top;
+    font-size: 12px;
+}
+.mysjprefix_viewAll {
+    display: none;
+}
+.mysjprefix_master {
+    background: url({$BASE_FOLDER}/img/bg_top.gif) repeat-x;
+    width: 100%;
+    min-width: 1001px;
+}
+
+body {
+    padding: 0 0 0 0;
+    font: normal 12px Arial, Helvetica, sans-serif;
+}
+
+#father {
+    background: url({$BASE_FOLDER}/img/bg_bot.gif) repeat-x 0 100%;
+    min-width: 1001px;
+}
+
+select {
+}
+
+a {
+    color: #1c4281;
+}
+
+label {
+    cursor: pointer;
+}
+
+.mysjprefix_h1 {
+    color: #1c4281;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 16px 0 10px 0;
+    text-transform: uppercase;
+}
+
+.mysjprefix_current_product {
+    padding: 15px 0 0 0;
+}
+.mysjprefix_current_product_content {
+    padding: 0 33px 0 33px;
+}
+.mysjprefix_current_product .mysjprefix_product_descr_tbl {
+    width: 100%;
+}
+
+.mysjprefix_current_product .mysjprefix_product_descr_tbl .mysjprefix_pic_td {
+    width: 110px;
+    padding: 3px 18px 0 0;
+}
+
+.mysjprefix_current_product .mysjprefix_product_descr_tbl .mysjprefix_pic_td div {
+    padding: 4px 4px;
+    border: solid 1px #8da0c0;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -khtml-border-radius: 8px;
+    border-radius: 8px;
+}
+
+.mysjprefix_current_product .mysjprefix_product_descr_tbl .mysjprefix_pic_td div img {
+    margin: auto;
+    display: block;
+}
+
+.mysjprefix_product_descr_tbl .mysjprefix_ai {
+    float: left;
+    padding: 10px 0 9px 0;
+    font-weight: bold; /*text-transform: capitalize;*/
+}
+
+.mysjprefix_product_descr_tbl .mysjprefix_ai span {
+    color: #5a7a0e;
+    text-transform: capitalize;
+}
+
+.mysjprefix_product_descr_tbl .mysjprefix_ex,
+.mysjprefix_product_descr_tbl .mysjprefix_av {
+    float: right;
+    padding: 10px 33px 0 0;
+    font-weight: bold;
+}
+
+.mysjprefix_product_descr_tbl .mysjprefix_av span {
+    color: #5a7a0e;
+}
+
+.mysjprefix_tstmls {
+    display: block;
+    float: left;
+    padding: 12px 0 0 0;
+}
+
+.mysjprefix_dosages {
+}
+
+.mysjprefix_dosages .mysjprefix_val {
+    font-weight: bold;
+    font-size: 18px;
+    padding: 20px 0 7px 0;
+}
+
+.mysjprefix_dosages table {
+    width: 100%;
+}
+
+.mysjprefix_dosages table th {
+    padding: 5px 2px 9px 2px;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: solid 1px #8da0c0;
+}
+
+.mysjprefix_dosages table .mysjprefix_l {
+    text-align: left;
+}
+
+.mysjprefix_dosages table td.mysjprefix_b {
+    font-weight: bold;
+}
+
+.mysjprefix_dosages table td {
+    vertical-align: middle;
+    text-align: center;
+    padding: 5px 5px 2px 5px;
+    border-bottom: solid 1px #8da0c0;
+}
+
+.mysjprefix_dosages table .mysjprefix_color1 {
+    color: #671313;
+}
+
+.mysjprefix_dosages table .mysjprefix_color2 {
+    color: #58770e;
+}
+.mysjprefix_buy-td {
+    width: 130px;
+}
+.mysjprefix_add-to-cart {
+    margin: -1px 0 0 0;
+    display: block;
+    color: #fff;
+    text-shadow: 1px 1px #364b04;
+    background: url({$BASE_FOLDER}templates/101/img/s3.gif) 0 -123px;
+    width: 97px;
+    height: 21px;
+    padding: 7px 0 0 30px;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.mysjprefix_add-to-cart:hover {
+    opacity: 0.9;
+    color: #fff;
+}
+
+.mysjprefix_error_tr td textarea,
+.mysjprefix_error_tr td .i {
+    border-color: #843333;
+}
+
+.mysjprefix_error_tr td.mysjprefix_error_td {
+    padding: 0 0 0 10px;
+    color: #843333;
+    font-size: 10px;
+    vertical-align: middle;
+}
+
+.mysjprefix_analogs {
+    margin: 16px 0 0 0;
+    padding: 8px 6px;
+    border: solid 1px #8da0c0;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -khtml-border-radius: 8px;
+    border-radius: 8px;
+}
+
+.mysjprefix_analogs div {
+    font-weight: bold;
+    text-transform: capitalize;
+    display: block;
+    float: left;
+    margin: 0 8px 0 0;
+    white-space: nowrap;
+}
+
+.mysjprefix_analogs a {
+    display: block;
+    float: left;
+    margin: 0 8px 0 0;
+}
+
+.mysjprefix_addPillBox {
+    margin: 22px 0 0 0;
+    padding: 13px 10px 10px 10px;
+    background: #eaeff7;
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -khtml-border-radius: 12px;
+    border-radius: 12px;
+}
+
+.mysjprefix_addPillBox .mysjprefix_nav {
+    float: left;
+    width: 100%;
+}
+
+.mysjprefix_addPillBox .mysjprefix_nav li {
+    float: left;
+    list-style: none !important;
+    color: #1c4281;
+    font-weight: bold;
+    border-bottom: dashed 1px;
+    margin: 0 42px 0 0;
+    cursor: pointer;
+}
+
+.mysjprefix_addPillBox .mysjprefix_nav li.mysjprefix_hover,
+.mysjprefix_addPillBox .mysjprefix_nav li.mysjprefix_active {
+    border: none;
+}
+
+.mysjprefix_addPillBox .mysjprefix_item {
+    padding: 0 0 1px 0;
+    list-style: none !important;
+}
+
+.mysjprefix_discount_table .mysjprefix_btn {
+    margin: 8px 0 0 9px;
+    background: url({$BASE_FOLDER}/img/s3.gif) 0 -151px;
+    text-transform: uppercase;
+    width: 138px;
+}
+
+.mysjprefix_btn {
+    border: none;
+    cursor: pointer;
+    width: 118px;
+    height: 28px;
+    background: url({$BASE_FOLDER}/img/s3.gif) -47px -95px;
+    color: #fff;
+    font-weight: bold;
+    text-shadow: 1px 1px #364b04;
+}
+.mysjprefix_menu .mysjprefix_menu_ul li a span {
+    white-space: nowrap;
+}
+@media (max-width:468px){
+    .mysjprefix_menu .mysjprefix_menu_ul {
+        display: block;
+        padding: 0;
+    }
+    .mysjprefix_menu .mysjprefix_menu_ul li {
+        display: block;
+        float: none;
+    }
+    .mysjprefix_menu .mysjprefix_menu_ul li a {
+        padding: 10px 0px;
+
+    }
+}

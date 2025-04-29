@@ -1,0 +1,8 @@
+#footer ul li { display: block; float: left; }
+#subMenu ul li { display: block; float: left; width: 100%; }
+.search .inp { margin: 5px 0 0 0; }
+.logo { z-index: 200 }
+.backet_form .e { display: block; float: left; }
+.catalog .e { margin: 0 8px 0 0; }
+.old { padding-left: 300px; }
+.h1 { position: relative }

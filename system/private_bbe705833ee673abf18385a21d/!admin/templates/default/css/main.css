@@ -1,0 +1,110 @@
+.settingTH { width: 200px; }
+#template_pic { margin: 0 0 10px 0; }
+
+.add_link { border-bottom: dashed 2px; }
+.add_link:hover { text-decoration: none; border-color:rgba(22,20,20,0); }
+
+#add_domain_block { display: none; }
+
+.pills-buy { font-size: 12px; }
+.pills-buy p { margin: 0; }
+
+.file_loader_form { display: block; margin: 20px 0 0 0; padding: 20px 0 20px 20px; border: dashed 1px; }
+#file_loader_form1 { display: none; }
+
+.table-news-list .date { display: block; font-size: 10px; }
+.table-news-list .date .icon-time { position: relative; top: -2px; }
+.table-news-list { font-weight: bold; }
+.table-news-list td { background: #ffffef; }
+.table-news-list td .e { display: block; }
+.table-news-list .readed { font-weight: normal; background: #fff; }
+
+.table-stats tr td:hover { background: #fffbd3 !important; }
+.user_stat { padding: 25px 0 0 7px; /* position: absolute; right: -22px; top: -20px; width: 100%;*/ }
+.user-info { font-size: 12px; padding-right: 20px; }
+.user-info span { display: block; }
+.user-info div span { display: inline-block; padding: 0 0 0 0;  /*display: none;*/ font-weight: bold; }
+.user-info:hover span span { display: inline-block; border: none; }
+.user_stat .navbar-text { line-height: normal; }
+
+.stat_typer_2 label { display: inline-block; padding: 0 0 0 40px; }
+
+.template-td { vertical-align: top; padding: 4px 0 0 0; }
+td.off img { display: none; }
+td.off.on img { display: block !important; }
+
+.readed td { background: #f3f3f3; color: #222222; }
+.readed td a { color: #222222; }
+
+.table-tickets .name { display: block; }
+.table-tickets .name:hover { text-decoration: none; }
+
+.table-ref textarea { width: 100%; border: none; background: none !important; box-shadow:none !important; overflow: hidden; resize:none; }
+
+.relative { position: relative; }
+
+.ico-pay { display: block; width: 39px; height: 26px; background: url(../pay_icons/undetected.jpg) no-repeat; }
+.ico-pay.visa { background-image: url(../pay_icons/visa.jpg); }
+.ico-pay.amex { background-image: url(../pay_icons/amex.jpg); }
+.ico-pay.diners { background-image: url(../pay_icons/diners.jpg); }
+.ico-pay.discover { background-image: url(../pay_icons/discover.jpg); }
+.ico-pay.echeck { background-image: url(../pay_icons/echeck.jpg); }
+.ico-pay.jcb { background-image: url(../pay_icons/jcb.jpg); }
+.ico-pay.mastercard { background-image: url(../pay_icons/mastercard.jpg); }
+.tab-pane { display: none; }
+.tab-pane.active { display: block !important; }
+
+.loader { float: right; display: none; width: 16px; height: 16px; background: url(../img/ajax_loader.gif); margin: 1px 0 0 0; }  
+.test_connect { display: inline-block; min-width: 104px; }
+
+
+.online,
+.offline { font-style: normal; }
+.gray { color: gray; }
+.table-domains .chck { position: relative; top: -4px; }
+
+.mini { font-size: 11px; margin: 0 0 0 4px; }
+
+.badge-danger { background: #B94A48; }
+.bot_can_not { font-size: 10px; }
+
+.messages .answer.support { margin-left: 40px; }
+.messages .answer .who { font-size: 12px; }
+#info_scan { display: none; }
+.comission { display: inline-block; position: relative; top: -4px; padding: 0 0 0 10px; }
+.locase { text-transform: lowercase; }
+
+#form_payments .nav-tabs .active { font-weight: bold; }
+.nobr { white-space: nowrap; }
+
+.tree_list {}
+.tree_list li {}
+.tree_list li li:hover { background: #ffffdb; }
+.tree_list li a {
+    display: inline-block;
+    padding: 2px ;
+}
+
+
+.tree_list li a:hover {
+    text-decoration: none;
+}
+.off_drug,
+.off_drug .visible i { opacity: 0.5 }
+#editor {overflow:scroll; max-height:300px}
+#ajaxer {
+    position: absolute;
+    left: 50%;
+
+    margin-left: -68px;
+    top: 400px;
+}
+.up {
+    margin-left: 20px;
+}
+.down {
+    margin-right: 20px;
+}
+.bestseller.off {
+    opacity: 0.5;
+}

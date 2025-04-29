@@ -1,0 +1,11 @@
+#header .main_menu li a { font-size: 16px; padding: 24px 0; }
+#header .main_menu li.b4 a { padding: 13px 0; }
+.searchBox { background: url("../img/s3_fr.gif"); }
+.add_to_cart { font-size: 12px; background-image: url(../img/s3_it.gif); width: 168px; }
+.cat_list a span { background-image: url(../img/e_top_it.gif); }
+#header {
+    background-image: url(../img/../img/doctor_it.png);
+}
+.result_buttons #checkout { background: url(../img/s3_it.gif) 0 -234px; width: 212px; }
+.discount_table .btn { background-image: url(../img/s3_de.gif); width: 150px; }
+.result_buttons .btn.continue { background: url(../img/s3_es.gif)  0 -234px; width: 190px; }

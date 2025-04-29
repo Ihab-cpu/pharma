@@ -1,0 +1,11 @@
+#header .main_menu li a { font-size: 12px; padding: 24px 0; }
+.searchBox { background: url("../img/s3_de.gif"); }
+.cat_list a span { background-image: url(../img/e_top_de.gif); }
+.add_to_cart { font-size: 13px; line-height: 14px; }
+
+.discount_table .btn { background-image: url("../img/s3_de.gif"); width: 150px; }
+
+#header {
+    background-image: url(../img/../img/doctor_de.png);
+}
+.add_to_cart { font-size: 10px; background-image: url(../img/s3_fr.gif); width: 114px; }

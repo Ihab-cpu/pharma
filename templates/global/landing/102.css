@@ -1,0 +1,697 @@
+.mysjprefix_menu {
+    display: table;
+    width: 100%;
+    margin: 20px 0 20px 0;
+}
+
+.mysjprefix_menu .mysjprefix_menu_ul {
+    display: table-row;
+}
+
+.mysjprefix_menu .mysjprefix_menu_ul li {
+    background: #03c3e8;
+    border-bottom: solid 3px #0490b3;
+    display: table-cell;
+    text-align: center;
+}
+
+.mysjprefix_menu .mysjprefix_menu_ul li a {
+    display: block;
+    padding: 17px 0 16px 0;
+    border-right: solid 1px #50d4ef;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.mysjprefix_menu .mysjprefix_menu_ul li:last-child a {
+    border: none;
+}
+.mysjprefix_menu .mysjprefix_menu_ul li:nth-child(4) {
+    min-width:50px;
+}
+.mysjprefix_menu .mysjprefix_menu_ul li:nth-child(5) {
+    min-width:50px;
+}
+.mysjprefix_menu .mysjprefix_menu_ul li a:hover {
+    color: #fff;
+    background: #36ceee;
+}
+
+.mysjprefix_main {
+    width: 100%;
+    font: normal 12px Arial, sans-serif;
+
+}
+.mysjprefix_payments {
+    text-align: center;
+    padding: 5px 0 10px 0;
+}
+.mysjprefix_payments a {
+    display: inline-block;
+    padding: 0 4px;
+}
+.mysjprefix_current_product {
+    margin: auto;
+}
+td {
+    font-size: 12px;
+}
+table {
+    border-collapse: collapse;
+}
+
+.mysjprefix_clear {
+    clear: both;
+    height: 0px;
+    overflow: hidden;
+}
+
+.mysjprefix_best-sides {
+    clear: both;
+    padding: 30px 0 0px 0;
+}
+
+.mysjprefix_best-sides .mysjprefix_e {
+    background: #fff;
+    float: left;
+    width: 151px;
+    padding: 14px 0 15px 66px;
+    border-radius: 10px;
+}
+
+.mysjprefix_best-sides .mysjprefix_e:hover {
+    background: rgba(4, 191, 232, 0.01);
+}
+
+.mysjprefix_main-menu {
+    clear: both;
+    border-radius: 7px 0 0 7px;
+    overflow: hidden;
+}
+
+.mysjprefix_main-menu li {
+    float: left;
+}
+
+.mysjprefix_main-menu li a {
+    display: block;
+    margin: 1px 0 0 0;
+    padding: 16px 36px 14px 36px;
+    text-transform: uppercase;
+    color: #fff;
+    border-right: solid 1px #50d4ef;
+    text-decoration: none;
+    font-weight: bold;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -o-transition: all .3s;
+    -ms-transition: all .3s;
+    transition: all .3s;
+}
+
+.mysjprefix_main-menu li:last-child a {
+    border-right: none;
+}
+
+.mysjprefix_main-menu li a:hover {
+    background: #36ceee;
+}
+
+.mysjprefix_tit {
+    font-size: 14px;
+    font-weight: bold
+}
+
+.mysjprefix_tit-green {
+    color: #92b710;
+}
+
+.mysjprefix_tit-blue {
+    color: #0590b2
+}
+
+.mysjprefix_search-by-letters {
+    clear: both;
+    padding: 11px 0 0 0;
+    margin: 0 200px 0 0;
+    font-size: 11px;
+}
+
+.mysjprefix_search-by-letters div {
+    float: left;
+    padding: 9px 0 10px 0;
+    color: #7e7e7e;
+}
+
+.mysjprefix_search-by-letters a {
+    padding: 9px 12px 8px 12px;
+    display: table-cell;
+    color: #04c5e9;
+    text-decoration: none;
+}
+
+.mysjprefix_search-by-letters a:first-child {
+    padding-left: 0;
+}
+
+.mysjprefix_search-by-letters a:last-child {
+    padding-left: 8px;
+}
+
+.mysjprefix_search-by-letters a:hover {
+    text-decoration: underline;
+}
+
+.mysjprefix_tit-big {
+    color: #000;
+    padding-bottom: 12px;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: capitalize
+}
+
+.mysjprefix_area {
+    float: left;
+    width: 100%;
+    padding: 19px 0 20px 0;
+}
+
+.mysjprefix_lPart {
+    width: 233px;
+    float: left;
+}
+
+.mysjprefix_lPart .mysjprefix_search {
+    position: relative;
+    height: 63px;
+    background: url(../img/s.gif);
+}
+
+.mysjprefix_lPart .mysjprefix_search .mysjprefix_inp {
+    margin: 12px 0 0 16px;
+    width: 161px;
+    padding: 8px 31px 9px 11px;
+    border: none;
+    background: none;
+}
+
+.mysjprefix_lPart .mysjprefix_search .mysjprefix_btn {
+    position: absolute;
+    left: 186px;
+    top: 11px;
+    width: 34px;
+    height: 34px;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.mysjprefix_lPart .mysjprefix_sub-menu {
+    border: solid 1px #d3e7eb;
+    border-top: none;
+    border-radius: 0 0 7px 7px;
+}
+
+.mysjprefix_lPart .mysjprefix_sub-menu {
+    padding: 4px 0 15px 0
+}
+
+.mysjprefix_lPart .mysjprefix_sub-menu li {
+}
+
+.mysjprefix_lPart .mysjprefix_sub-menu li a {
+    position: relative;
+    padding: 5px 10px 6px 16px;
+    display: block;
+    color: #04c5ea;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.mysjprefix_lPart .mysjprefix_sub-menu li a:before {
+    position: absolute;
+    right: 13px;
+    top: 7px;
+    content: '';
+    display: block;
+    width: 10px;
+    height: 14px;
+    background: url(../img/s.gif) -195px -88px;
+}
+
+.footer {
+    clear: both;
+    height: 199px;
+}
+
+.footer .add-menu {
+    display: table;
+    width: 100%;
+    padding: 0 0 4px 0;
+    float: left;
+    background: url(../img/footermenu.jpg) no-repeat;
+    border-radius: 7px 0 0 7px;
+    overflow: hidden;
+}
+
+.footer .add-menu li {
+    white-space: nowrap;
+    display: table-cell;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-right: solid 1px #50d6ef;
+}
+
+.footer .add-menu li a {
+    display: block;
+    padding: 18px 15px 13px 15px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -o-transition: all .3s;
+    -ms-transition: all .3s;
+    transition: all .3s;
+}
+
+.footer .add-menu li:last-child {
+    border: none;
+}
+
+.footer .add-menu li a:hover {
+    background: #36ceee;
+}
+
+.footer .add-menu li:last-child a:hover {
+    border-radius: 0 8px 0 0;
+}
+
+.main-menu li a:hover {
+}
+
+.footer .serts {
+    clear: both;
+    height: 114px;
+}
+
+.footer .serts {
+    background: url(../img/serts.gif) no-repeat 0 17px;
+}
+
+.footer .payments {
+    float: right;
+}
+
+.footer .copyR {
+    float: left;
+    padding: 0 0 0 0;
+    color: #575755;
+    font-size: 11px;
+    line-height: 11px;
+    position: relative;
+    top: -3px
+}
+
+.payments {
+}
+
+.border {
+    margin: 0 0 15px 0;
+    border: solid 1px #ededed;
+    border-radius: 7px;
+    padding: 14px 18px 14px 18px;
+}
+
+.border p {
+    line-height: 15px;
+    padding: 0 0 15px 0;
+}
+
+.border h1 {
+    font-weight: bold;
+    font-size: 14px;
+    padding: 0 0 15px 0;
+}
+
+.list_type_1 {
+}
+
+.list_type_1 .e {
+    padding: 14px 0 0 0;
+    border-bottom: solid 1px #ebebeb;
+}
+
+.list_type_1 .e:last-child {
+    border: none;
+}
+
+.list_type_1 .e .q {
+    font-weight: bold
+}
+
+.list_type_1 .e .a {
+    padding: 3px 0 14px 0;
+}
+
+.list_type_2 {
+}
+
+.list_type_2 .e {
+    padding: 14px 0 14px 0;
+    border-bottom: solid 1px #ebebeb;
+}
+
+.list_type_2 .e:last-child {
+    border: none;
+}
+
+.list_type_2 .e .n {
+    font-weight: bold
+}
+
+.list_type_2 .e .msg {
+}
+
+.faq-table {
+    margin: 10px 0 0 0;
+    width: 100%;
+    border-top: solid 1px #ededed;
+}
+
+.faq-table th {
+    padding: 2px 2px;
+    border-bottom: solid 1px #ededed;
+    font-weight: bold
+}
+
+.faq-table td {
+    padding: 2px 2px;
+    border-bottom: solid 1px #ededed;
+}
+
+.mysjprefix_mega-discount {
+    float: right;
+    position: relative;
+    border-radius: 10px;
+    background: #f6f9ea;
+    width: 20%;
+    padding: 21px 2% 24px 8%;
+    color: #92b710;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.mysjprefix_mega-discount i {
+    position: absolute;
+    left: 15px;
+    top: 23px;
+    display: block;
+    width: 48px;
+    height: 48px;
+    background: url(/templates/102/img/s.gif) 0 -88px;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    -ms-transition: all .5s;
+    transition: all .5s;
+}
+
+.mysjprefix_mega-discount div {
+    padding: 0 0 6px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.mysjprefix_mega-discount.mysjprefix_active i,
+.mysjprefix_mega-discount:hover i {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+}
+
+.mysjprefix_product_descr {
+    width: 69%;
+    float: left;
+    padding: 1px 0 4px 0;
+    border: solid 1px #ededed;
+    border-radius: 10px;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+.mysjprefix_product_descr .mysjprefix_pic_td {
+    padding-right: 8px;
+    padding-left: 8px;
+    border: none
+}
+
+.mysjprefix_product_descr .mysjprefix_av {
+}
+
+.mysjprefix_product_descr .mysjprefix_av span {
+    color: #92b710;
+}
+
+.mysjprefix_product_descr .mysjprefix_ai {
+    padding: 10px 0 0 0;
+}
+
+.mysjprefix_product_descr .mysjprefix_ai span {
+    color: #92b710;
+}
+
+.mysjprefix_analogs {
+    margin: 16px 0 0 0;
+    padding: 8px 6px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -khtml-border-radius: 8px;
+    border-radius: 8px;
+    background: #f7f7f7;
+}
+
+.mysjprefix_analogs div {
+    display: block;
+    float: left;
+    margin: 0 8px 0 0;
+    white-space: nowrap;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 12px
+}
+
+.mysjprefix_analogs a {
+    padding: 0 5px 0 0;
+    color: #04c5e8;
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.mysjprefix_oneLineHeight {
+    display: block;
+    height: 14px;
+    overflow: hidden;
+    position: relative;
+    margin: 3px 0;
+    padding: 0 12px;
+}
+
+.mysjprefix_oneLineHeight .mysjprefix_viewAll {
+    display: none;
+    position: absolute;
+    right: 4px;
+    top: 0;
+    background: #f7f7f7;
+    padding: 0 0 0 10px;
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+
+.mysjprefix_oneLineHeight .mysjprefix_viewAll:hover {
+    text-decoration: none !important;
+}
+
+.mysjprefix_oneLineHeight .mysjprefix_viewAll i {
+    display: block;
+    position: absolute;
+    left: -19px;
+    top: 0;
+    width: 20px;
+    height: 20px;
+    background: url(../img/shadow.png) 0 100%;
+}
+
+.mysjprefix_analog-up {
+    padding-right: 10px;
+}
+
+.mysjprefix_analog-up .mysjprefix_tit {
+    font-weight: bold;
+    padding-right: 4px;;
+}
+
+.mysjprefix_analog-up div {
+    display: inline;
+}
+
+.mysjprefix_dosages {
+    padding: 0px 0 0 0;
+}
+
+.mysjprefix_dosages .mysjprefix_val {
+    padding: 19px 0 5px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.mysjprefix_dosages .mysjprefix_dosage-box {
+    border: solid 1px #ebf4f5;
+    border-radius: 10px;
+}
+
+.mysjprefix_dosages .mysjprefix_dosage_table {
+    width: 100%
+}
+
+.mysjprefix_dosages .mysjprefix_dosage_table .mysjprefix_zebra {
+    background: #f3fafb
+}
+
+.mysjprefix_dosages .mysjprefix_dosage_table th {
+    padding: 15px 6px 13px 6px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.mysjprefix_dosages .mysjprefix_dosage_table td {
+    padding: 14px 6px 13px 6px;
+    font-size: 14px;
+}
+
+.mysjprefix_dosages .mysjprefix_dosage_table td .mysjprefix_old {
+    text-decoration: line-through;
+    color: #bb2424
+}
+
+.mysjprefix_color1 {
+    color: #92b710
+}
+
+.mysjprefix_center-text {
+    text-align: center
+}
+
+.mysjprefix_add-to-cart {
+    display: block;
+    border: solid 1px #92b710;
+    text-decoration: none;
+    color: #92b710;
+    padding: 8px 35px 7px 35px;
+    border-radius: 15px;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    -ms-transition: all .5s;
+    transition: all .5s;
+}
+
+.mysjprefix_add-to-cart:hover {
+    background: #92b710;
+    color: #fff;
+}
+
+.mysjprefix_saving-percent {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 10px;
+    margin: 0 9px 0 0;
+    background: #f2f4e9;
+    font-weight: bold;
+}
+
+.mysjprefix_addPillBox {
+    margin-top: 20px;
+    padding: 20px 20px 30px 20px;
+}
+
+.mysjprefix_addPillBox p {
+    padding: 0 10px 0 0
+}
+
+.mysjprefix_strong-sides {
+
+    padding: 12px 10px 5px 10px;
+    border-radius: 10px;
+    color: #92b710;
+}
+
+.mysjprefix_strong-sides table {
+    width: 100%;
+}
+
+.mysjprefix_strong-sides table td {
+    width: 33.3%;
+    color: #92b710;
+    text-align: center;
+    font-weight: bold;
+}
+
+.mysjprefix_strong-sides table td i {
+    position: relative;
+    top: 5px;
+    display: inline-block;
+    margin: 0 0 0 41px;
+    width: 22px;
+    height: 22px;
+    background: url(/templates/102/img/s.gif) -49px -88px;
+}
+
+.mysjprefix_strong-sides table td div {
+    display: inline-block;
+    position: relative;
+    padding: 2px 10px 2px 5px;
+}
+
+.mysjprefix_backet_table_block {
+    border: solid 1px #ebf4f5;
+    border-radius: 10px;
+    margin: 12px 0 0 0;
+}
+
+.mysjprefix_product_descr_tbl {
+    width: 100%;
+}
+.mysjprefix_h1 {
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    padding: 20px 0 9px 20px;
+    text-transform: capitalize
+}
+@media (max-width:508px){
+    .mysjprefix_menu .mysjprefix_menu_ul {
+        display: block;
+        padding: 0;
+    }
+    .mysjprefix_menu .mysjprefix_menu_ul li {
+        display: block;
+        float: none;
+    }
+    .mysjprefix_menu .mysjprefix_menu_ul li a {
+        padding: 10px 0px;
+    }
+    .mysjprefix_mega-discount i {
+        display: none;
+    }
+    .mysjprefix_add-to-cart {
+        display: block;
+    }
+}

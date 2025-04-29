@@ -1,0 +1,682 @@
+/* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 310px)
+and (max-device-width: 980px)
+{
+    .zoom-image{
+        position: absolute;
+
+    }
+    .pic .zoom-image{
+        display: none;
+    }
+    .pic.active .zoom-image{
+        display: block !important;
+    }
+    .zoom-bg {
+        position: fixed;
+        left: -200px;
+        right: -200px;
+         display: block;
+        top: -200px;
+        bottom: -200px;
+        display: none;
+        z-index: 9999;
+        background: rgba(0,0,0,0.2);
+    }
+    .zoom-bg.active{
+        display: block;
+    }
+    .zoom-image img {
+        width: 270px;
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 20px;
+        margin: auto;
+    }
+    .social-icons {
+        text-align: center;
+        display: block;
+    }
+    #subMenu .bookmark_ico a {
+        display: inline-block;
+    }
+    .bookmark_ico {
+        margin: 12px 2px 0 2px !important;
+    }
+    body.mobile {
+        background-image: url(../img/bg_mobile.gif);
+        background-position:  0 -100px;
+        overflow-x: hidden;
+        -webkit-text-size-adjust:none;
+    }
+    .mobile .only-for-mobile {
+        display: block;
+    }
+    .mobile .best-sides-mobile {
+        display: block;
+        text-align: center;
+        padding: 10px 20px 20px 20px;
+        position: relative;
+    }
+    .mobile .best-sides-mobile:after,
+    .mobile .best-sides-mobile:before {
+        content: '';
+        display: block;
+        width: 60px;
+        height: 70px;
+        position: absolute;
+        left: 0;
+        top: 10px;
+        background: rgba(0, 0, 0, 0) url("../img/s.gif") repeat scroll 0 0;
+    }
+
+    .mobile .best-sides-mobile:after {
+        background-position: -444px 0;
+        left: auto;
+        right: 5px;
+    }
+    .lang-fr.mobile .best-sides-mobile:after {
+        display: none;
+    }
+    .lang-es.mobile .best-sides-mobile:before {
+        display: none;
+    }
+    .lang-es.mobile .best-sides-mobile:after {
+        display: none;
+    }
+    .mobile .best-sides-mobile div {
+        padding: 2px 0 2px 0;
+        font-weight: bold;
+    }
+    .mobile.page-categories .payments {
+        display: none;
+    }
+    .mobile .master {
+        width: 100% !important;
+        background: none;
+        position: relative;
+        margin: 10px 0 0 0;
+    }
+
+    .mobile .e span {
+        width: auto;
+        width: 142px;
+    }
+    .mobile #main {
+        width: 100%;
+    }
+    .mobile .empty {
+        text-align: center;
+        padding: 30px 0 30px 0;
+        font-weight: bold;
+        background: #fff;
+    }
+    .mobile .hot-info {
+        display: none;
+    }
+    .mobile .basket {
+        background: #cf552c;
+        left: 18px;
+        top: 210px;
+        padding: 20px 20px;
+        top: auto;
+        left: auto;
+        position: inherit;
+    }
+    .mobile .basket span {
+        text-decoration: none;
+        color: #fff;
+    }
+    .mobile .basket  span span {
+        text-decoration: underline;
+    }
+    .mobile .basket  span > span {
+        text-decoration: none;
+    }
+    .mobile .header_total_price,
+    .mobile #total_count {
+        text-decoration: underline;
+    }
+
+    .mobile .change-lang div {
+        display: none;
+    }
+    .mobile .basket i {
+        left: 0;
+        height: 58px;
+        top: 7px;
+        display: none;
+    }
+    .mobile .basket > span {
+        text-align: center;
+        min-width: 128px;
+        white-space: nowrap;
+        display: block;
+    }
+    .mobile #header {
+        height: auto;
+        padding: 0;
+        width: 100%;
+        position: relative;
+    }
+    .mobile .shadow,
+    .mobile .girl {
+        display: none;
+    }
+    .mobile .logo {
+        width: 320px;
+        top: 11px;
+        left: 50%;
+        right: auto;
+        padding: 0;
+        margin: 0 0 0 -172px;
+        z-index: 200;
+        background-position: -245px -203px;
+        height: 58px;
+        background-size: 892px;
+        border-top: solid 1px #ededef;
+    }
+    .mobile .current_product .dosages table td.buy-td {
+        width: auto;
+    }
+    .mobile .dosage_table .add-to-cart {
+        background: none !important;
+        width: auto;
+    }
+    .mobile .dosage_table .add-to-cart span {
+        display: block;
+    }
+    .mobile #menu {
+        display: none;
+        position: inherit;
+        left: auto;
+        top: auto;
+        margin: 412px 0 20px 0;
+        height: auto;
+        background: none;
+        background: #b75232;
+    }
+    .mobile #menu li a.active::after,
+    .mobile #menu li a.active::before {
+        display: none;
+    }
+    .mobile #menu li a {
+        font-size: 16px;
+        padding: 10px 0;
+    }
+    .mobile #menu li a.active {
+        position: inherit;
+        left: auto;
+        right: auto;
+        top: auto;
+        height: auto;
+        background: #fff;
+        padding: 10px 0;
+        color: #454545;
+        text-shadow: 1px 1px #fff;
+    }
+    .mobile #menu li {
+        float: none;
+        padding: 0;
+        display: block;
+        text-align: center;
+    }
+    .mobile #menu li a {
+        padding: 10px 0 10px 0;
+        color: #fff;
+        text-shadow: 1px 1px #454545;
+    }
+    .mobile .phone > span {
+        display: none;
+    }
+    .mobile .phone {
+        display: none;
+        position: absolute;
+        left: 0;
+        top:0;
+        width: 100%;
+    }
+    .mobile .phoneDigits {
+        right: auto;
+        padding: 0;
+        position: absolute;
+        top: 19px;
+        left: 50%;
+        width: 200px;
+        margin-left: -110px;
+    }
+    .mobile .change-lang {
+        top: auto;
+        left: auto;
+        right: auto;
+        padding: 89px 18px 0 18px;
+        position: inherit;
+        padding-bottom: 20px;
+    }
+    .mobile .change-lang select {
+        height: 25px;
+        width: 100%;
+    }
+    .mobile .currency {
+        left: auto;
+        right: 18px;
+        top: 202px;
+        top: auto;
+        left: auto;
+        right: auto;
+        display: block;
+        float: none;
+        position: inherit;
+        padding: 0 18px 10px 18px;
+    }
+    .mobile .currency select {
+        height: 25px;
+        width: 100%;
+    }
+    .mobile .search {
+        background: #fff;
+        top:250px;
+        left: 0;
+        width: 100%;
+        padding: 14px 0 0 0;
+        position: inherit;
+        left: auto;
+        top: auto;
+    }
+    .mobile .search .by-letters {
+        width: 100%;
+        padding: 20px 0 5px 0;
+        white-space: nowrap;
+        overflow-x: scroll;
+        text-align: center;
+        scrollbar-face-color: #006000;
+        scrollbar-highlight-color: #9999999;
+        scrollbar-shadow-color: #666666;
+        scrollbar-3dlight-color: #666666;
+        scrollbar-arrow-color: #ffffff;
+        scrollbar-track-color: #e0efe0;
+        scrollbar-darkshadow-color: #666666;
+    }
+    /*
+    ::-webkit-scrollbar{width:10px}
+    ::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,.3);border-radius:10px}::-webkit-scrollbar-thumb{border-radius:10px;background:rgba(0,0,0,.8);-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,.5)}::-webkit-scrollbar-thumb:window-inactive{background:rgba(0,0,0,.4)}.no-select{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+    */
+    .mobile #header .search .by-letters a {
+        float: none;
+        display: table-cell;
+    }
+    .mobile #subMenu {
+        width: 100%;
+        padding: 0;
+        background: #fff;
+        position: relative;
+        margin-bottom: 13px;
+    }
+    .mobile #subMenu div {
+        padding: 12px 0 8px 0;
+        cursor: pointer;
+        background: #fff;
+
+    }
+    .mobile #subMenu:before,
+    .mobile #subMenu div:before,
+    .mobile #subMenu div:after {
+        content: '';
+        display: block;
+        width: 29px;
+        height: 5px;
+        background: #454545;
+        position: absolute;
+        right: 10px;
+        top: 16px;
+    }
+    .mobile #subMenu div:before {
+        top: 24px;
+    }
+    .mobile #subMenu:before {
+        top: 32px;
+    }
+    .mobile #subMenu .b1 {
+        display: none;
+    }
+    .mobile #categories {
+        display: none;
+    }
+    .mobile .search .inp {
+        width: 100%;
+        padding: 0;
+        text-align: center;
+        height: 38px;
+        position: inherit;
+        left: auto;
+        top: auto;
+        background: #fff;
+        border: solid 1px #cf552c;
+    }
+    .mobile .search > div {
+        padding: 0 18px;
+    }
+    .mobile .search .btn {
+        background: #cf552c url(../img/l.png) no-repeat 5px 5px;
+        left: auto;
+        top: 14px;
+        opacity:1;
+        right: 17px;
+    }
+    .mobile .autocomplete-suggestions {
+        width: 100% !important;
+    }
+    .mobile .autocomplete-suggestion {
+        padding: 4px 20px 4px 20px;
+    }
+    /*.search .inp {
+        background: #fff;
+        top:-180px;
+        left: 21px;
+        width: 100%;
+    }*/
+    .mobile .special-offer {
+        display: block;
+        position: relative;
+        left: auto;
+        width: auto;
+        display: none !important;
+    }
+    .mobile #content {
+        clear: both;
+        padding: 1px 0 0 0;
+    }
+    .mobile .main-name {
+        float: none;
+        text-align: center;
+    }
+    .mobile .payments {
+        float: none;
+        padding-bottom: 13px;
+        text-align: center;
+    }
+    .mobile #subMenu {
+        float: none;
+        width: auto;
+        text-align: center;
+    }
+    .mobile #subMenu ul li i {
+        display: none
+    }
+    #subMenu ul li a {
+        padding: 7px 7px 7px 7px;
+        font-size: 16px;
+        text-decoration: none;
+    }
+    .mobile .main-content {
+        float: none;
+        width: auto;
+        right: auto;
+        padding-bottom: 0;
+        position: relative;
+    }
+    .mobile .discount_form {
+        text-align: center;
+        top: auto;
+        bottom: 220px;
+        margin: 0;
+        position: absolute;
+        left: 0;
+        width: 100%;
+    }
+    .mobile .discount_table .i {
+        display: block;
+        width: 100%;
+        margin-bottom: 10px;
+        padding: 4px 0 6px !important;
+    }
+    .mobile .discount_form table td:first-child {
+        padding: 0;
+    }
+    .mobile .result_price_and_discount_block {
+        padding-top: 42px;
+    }
+    .mobile .result_buttons {
+        padding: 17px 10px 0 10px;
+    }
+    .mobile .discount_form table td {
+        width: auto !important;
+        padding: 0 18px !important;
+        display: block;
+
+    }
+    .mobile .result_buttons .btn {
+        display: block;
+        padding-bottom: 15px !important;
+        background: none;
+        padding-top: 15px !important;
+        width: 100%;
+        padding: 0;
+        margin-bottom: 10px;
+    }
+    .mobile .discount_form .h1 {
+        position: inherit;
+        left: auto;
+        top: auto;
+    }
+    .mobile .h1{
+        font-size: 16px;
+        text-align: center;
+    }
+    .mobile .shipping {
+        padding: 0;
+    }
+    .mobile .catalog .line {
+        width: 100%;
+        padding: 0 !important;
+        min-width: inherit;
+
+    }
+    .current_product .dosages table th {
+        line-height: 20px;
+        padding: 14px 0 14px 0;
+        background-color: #f6f6f5;
+    }
+    .mobile .current_product .dosages table th span {
+        display: none;
+    }
+    .mobile .current_product .dosages table td {
+        font-size: 12px;
+    }
+    .mobile .current_product .dosages table td:first-child {
+        text-align: center;
+        padding-left: 10px;
+    }
+    .mobile .e {
+        height: auto !important;
+        width: auto;
+        display: block;
+        padding-top: 15px !important;
+        padding-bottom: 2px !important;
+        padding-left: 10px !important;
+        margin-bottom: 10px;
+    }
+    .area.catalog {
+        padding: 0 10px;
+    }
+    .mobile .e:first-child {
+        float: none;
+    }
+    .mobile .e:last-child {
+        float: none;
+    }
+    .mobile #subMenu ul li.open ul {
+        display: none;
+    }
+    .mobile .b2footer {
+        background-size: 100%;
+        background-position: center top;
+        height: 44px;
+        width: 95%;
+        margin: auto;
+    }
+    .mobile #footer div {
+        float: none;
+        text-align: center;
+    }
+    .mobile .me {
+        clear: both;
+        width: 100%;
+        float: left;
+    }
+    .mobile #footer {
+        height: auto;
+        background: none;
+    }
+    .mobile #footer .clearfix {
+        display: none;
+    }
+    .mobile #footer ul {
+        float: none;
+        width: 100%;
+        padding: 20px 0 0 0;
+    }
+    .mobile #footer ul li {
+        display: block;
+        text-align: center !important;
+    }
+    .mobile #shop_cart_title {
+        display: inline-block;
+    }
+    .mobile #footer ul li a {
+        padding: 10px 0 10px 0 !important;
+        background: #cf552c;
+        color: #fff;
+        margin-bottom: 1px;
+        text-decoration: none;
+    }
+    .mobile #result_str {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .mobile .bonusBox {
+        margin: 0;
+        padding: 9px 26px 10px 26px;
+    }
+    .mobile .backet_form {
+        clear: both;
+    }
+    .mobile .backet_form .e {
+        display: block;
+        padding: 2px 10px 2px 0px;
+    }
+    .mobile .backet_table .inpX {
+        display: inline-block;
+        float: none;
+        margin: 0 1px 0 1px;
+    }
+    .mobile #footer ul li {
+        max-width: 100% !important;
+    }
+    .mobile .count-th {
+        white-space: nowrap !important;
+        min-width: 84px;
+    }
+    .mobile .backet_table .inpX input {
+        width: 30px !important;
+    }
+    .mobile .backet_table th {
+        padding: 0 0;
+        white-space: normal;
+        width: auto !important;
+    }
+    .mobile .backet_table th span {
+        display: none;
+    }
+    .mobile .backet_table th:last-child {
+
+    }
+    .mobile .backet_table .del {
+        padding: 9px 3px;
+    }
+    .mobile .backet_table td {
+        padding: 9px 0 8px 0;
+    }
+    .mobile .warper {
+        display: block;
+    }
+    .mobile .backet_table .b_minus,
+    .mobile .backet_table .b_plus {
+        float: none;
+        display: inline-block;
+        margin: 0;
+        width: 18px;
+        position: relative;
+        top:-10px;
+    }
+    .mobile #discount_place.on .old {
+        padding: 0;
+        float: right;
+    }
+    .mobile #checkout4 {
+        padding-bottom: 25px !important;
+        padding-top: 25px !important;
+    }
+    .mobile #toTop {
+        display: none;
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        width: 60px;
+        height: 60px;
+        background: #fff;
+        text-align: center;
+        font-weight: bold;
+        font-size: 23px;
+        font-family: "Helvetica Neue Light", "Lucida Grande", "Calibri", "Arial", sans-serif;
+        cursor: pointer;
+        z-index: 2000;
+    }
+    .mobile #toTop.visible {
+        display: block;
+    }
+    .mobile #toTop div {
+        padding: 14px 0 0 0;
+    }
+    .mobile #toFullVersion {
+        display: block;
+        padding: 20px;
+        text-align: center;
+        text-transform: uppercase;
+        background: #cf552c;
+        color: #fff;
+        cursor: pointer;
+    }
+    .mobile.discount_ok .result_price_and_discount_block {
+        margin: 10px 0 0 0;
+        padding-top: 15px;
+    }
+    .mobile.discount_ok #discount_place.on .old {
+        float: left;
+    }
+    .contact_form textarea, .contact_form .i,
+    #discount_code,#q,select,input[type='text'],input[type='number'],textarea {font-size:16px;}
+
+    .mobile .phone-for-mobile {
+        display: block;
+        min-height: 130px;
+        position: inherit;
+        left: auto;
+        top: auto;
+    }
+    .mobile .phone-for-mobile .phoneDigits {
+        position: inherit;
+        left: 0;
+        top: 0;
+        margin: 0 auto;
+        text-align: center;
+        padding-right: 10px;
+    }
+/*and (-webkit-min-device-pixel-ratio: 2) {*/
+
+
+}

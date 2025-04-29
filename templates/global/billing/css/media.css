@@ -1,0 +1,334 @@
+/* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 210px)
+and (max-device-width: 800px)
+{
+    body {
+        padding-bottom: 0;
+    }
+    .step2 #back_to_step1 {
+        position: absolute;
+        top: 70px;
+        left: 0;
+        display: block;
+        padding: 0;
+        min-height: 40px;
+        float: none;
+        width: 100%;
+
+    }
+    .step2 #btn_complete {
+        float: none;
+        left: auto;
+        padding: 0;
+        width: 100%;
+        min-height: 60px;
+    }
+    #credit_card_helper {
+        left: 9px;
+        top: 75px;
+    }
+    #btn_complete.check {
+
+    }
+    #main {
+        width: 100%;
+    }
+    #content {
+        padding: 20px 20px 0 20px;
+    }
+    #lang_on_billing {
+        left: auto !important;
+        top: auto !important;
+        position: relative !important;
+    }
+    .step2 .btn_complete_box {
+        position: relative;
+        height: 130px;
+    }
+    #lang_on_billing select {
+        text-align: center;
+        width: 100%;
+        padding: 5px 0 ;
+        margin: auto;
+        display: block;
+    }
+    .bill_result_price .bill_corn_2 {
+        text-align: center;
+        font-size: 11px;
+    }
+    .bill_fix_padding {
+        padding: 8px 0 8px 0;
+        text-align: center;
+    }
+    .bill_actual_list {
+        width: 100%;
+    }
+
+    .mob_flag1 {
+        position: relative;
+    }
+    .mob_flag1 select {
+        position: absolute;
+        left: 5px;
+        top: 7px;
+        min-width:130px;
+        z-index: 200;
+    }
+    .mob_flag2 {
+        position: relative;
+        min-height: 30px;
+    }
+    .mob_flag2 select {
+        min-width:130px;
+        position: absolute;
+        z-index: 200;
+        right: 5px;
+        top: 0;
+    }
+
+    .bill_master_name {
+        padding: 20px 0 0 0;
+        float: none;
+        white-space: normal;
+        text-align: center;
+    }
+    .bill_ahtung {
+        padding: 4px 0 10px 0;
+        float: none;
+        text-align: center;
+    }
+    .backet_table tr {
+        float: left;
+        width: 100%;
+        clear: both;
+        background: #fff;
+    }
+    .backet_table td.l {
+        background: #fff;
+    }
+    .backet_table th:nth-child(1),
+    .backet_table td:nth-child(1) {
+        text-align: left;
+        width: 35%;
+        font-weight: bold;
+    }
+    .backet_table th:nth-child(2),
+    .backet_table td:nth-child(2) {
+        width: 30%;
+        font-size: 10px;
+    }
+    .backet_table th:nth-child(3),
+    .backet_table td:nth-child(3) {
+        width: 15%;
+        text-align: center;
+    }
+    .backet_table th:nth-child(4),
+    .backet_table td:nth-child(4) {
+        display: none !important;
+    }
+    .backet_table th:nth-child(5),
+    .backet_table td:nth-child(5) {
+        width: 20%;
+        text-align: right;
+        background: #fff;
+    }
+    .backet_table th {
+        font-size: 10px;
+    }
+    .backet_table th,
+    .backet_table td {
+        float: left;
+        padding: 4px 0;
+        border: none;
+    }
+    .billing .order_table {
+        margin: 0;
+    }
+    .backet_table th {
+        padding: 10px 0 10px 0;
+    }
+    .backet_table {
+
+    }
+    .billing .inp {
+        padding: 4px 0 3px 0;
+        text-indent: 5px;
+        width: 100%;
+    }
+    .billing .select {
+        padding: 4px 0 3px 0;
+        text-indent: 5px;
+        width: 100%;
+    }
+
+    ol.progtrckr {
+        display: none;
+        margin:-20px auto 20px auto;
+    }
+    .bill_b1,
+    .bill_b2 {
+        display: none;
+    }
+    .bill_result_price {
+        width: 100%;
+        float: none;
+    }
+    #backet_table thead {
+
+    }
+    #backet_table tbody tr {
+        display: block;
+    }
+    #backet_table tbody tr:nth-child(odd),
+    #backet_table tbody tr:nth-child(odd) td {
+        background: #f5f5f5;
+    }
+    #backet_table tbody tr td {
+        display: block;
+    }
+
+    .bill_adres_td {
+        width: 100%;
+        padding: 13px 0 0 0;
+        display: block;
+    }
+    .shippng-td {
+        display: table !important;
+    }
+    .bill_adres_td tbody {
+        width: 100%;
+    }
+    .bill_shipping_different_block {
+        width: 100%;
+    }
+    .bill_adres_td tr {
+        width: 100%;
+    }
+    .bill_pay_method {
+        padding: 13px 0 0 0;
+        display: block;
+    }
+    .bill_table_type2 tr {
+        position: relative;
+        display: block;
+    }
+    .bill_corner_box_t1 .bill_corner_box_t1_3 {
+        padding: 0;
+    }
+    .bill_table_type2 th {
+        font-weight: bold;
+        padding: 6px 2px 2px 6px;
+        display: block;
+    }
+    .step2  .bill_table_type2 tr {
+        display: table-row;
+    }
+    .step2 .bill_table_type2 th {
+        display: table-cell;
+        width: 49%;
+    }
+    .step2 #content p {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .bill_table_type2 td {
+
+        display: block;
+    }
+    .bill_result_price {
+        max-height: 45px;
+        overflow-x: hidden;
+    }
+    .bill_result_price .bill_corn_1 {
+        max-height: 45px;
+
+    }
+    .step2 .bill_table_type2 td {
+        width: 50%;
+        text-align: left;
+    }
+    .step2 .bill_fix_padding {
+        padding-left: 10px;
+        padding-bottom: 5px;
+    }
+    .step2 .bill_table_type2 td {
+
+    }
+    .bill_table_type2 td {
+
+    }
+    .bill_table_type2 td.bill_must {
+        position: absolute;
+        padding-left: 0;
+        padding-right: 0;
+        right: 0;
+        top: 0;
+    }
+    ol.progtrckr li::before {
+        left: 45%;
+    }
+    ol.progtrckr[data-progtrckr-steps="3"] li {
+        width: 23%;
+    }
+    .rights {
+        float: none;
+        text-align: center;
+    }
+    .insurance {
+        clear: both;
+        float: none;
+    }
+    .bill_shipping_is_different label {
+        float: none;
+        padding-left: 25px;
+        padding-bottom: 10px;
+    }
+    .insurance input {
+        float: left;
+        margin: 0 9px 0 0;
+    }
+    .bill_shipping_is_different .insurance label {
+        padding: 0;
+    }
+    #footer {
+
+        clear: both;
+        padding: 0 0 17px 0;
+    }
+    #print_btn {
+        margin-top: 10px;
+    }
+    #btn_complete {
+        width: 100%;
+        padding: 10px 0 !important;
+        min-height: 40px;
+        min-width: 100px;
+
+    }
+    #movieFlag td {
+        display: block;
+
+    }
+    .step2 .bill_table_type2 td.shipping_adrr_td_100 {
+        width: 90% !important;
+        white-space: nowrap;
+        display: table-cell;
+    }
+    #fld_birth_year {
+        min-width: 90px;
+    }
+    #fld_birth_month {
+        min-width: 90px;
+    }
+    #fld_birth_day {
+        min-width: 80px;
+    }
+    #movie1 {
+        white-space: nowrap;
+    }
+    #fld_email, #fld_email2, .billing .inp, select, input[type='text'],input[type='number'],textarea {font-size:16px;}
+    body{ -webkit-text-size-adjust:none;}
+}

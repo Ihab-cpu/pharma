@@ -1,0 +1,10 @@
+#menu,
+.e .add-to-cart,
+.dosage_table .add-to-cart,
+.special-offer,
+.change-lang div,
+.hot-info,
+.logo { background-image: url("../img/s_de.gif"); }
+#subMenu .b1 { background-image: url(../img/b1_de.gif); }
+.basket i { background-image: url("../img/s_de.gif") }
+.special-offer span { padding-left: 260px; }

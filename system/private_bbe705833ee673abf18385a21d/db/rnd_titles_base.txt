@@ -1,0 +1,114 @@
+[
+  {
+    "Cheapest Pharmacy": {
+      "de": "Billige Drogerie",
+      "fr": "Pharmacie la moins chère",
+      "es": "La farmacia más barata",
+      "it": "Farmacia più economica"
+    },
+    "Cheap Drugstore": {
+      "de": "Discounte Apotheke",
+      "fr": "Pharmacie pas chère",
+      "es": "Farmacia barata",
+      "it": "Farmacia a buon mercato"
+    },
+    "Discount Pharmacy": {
+      "de": "Discounte  Drogerie",
+      "fr": "Pharmacie avec une remise",
+      "es": "Farmacia con descuentos",
+      "it": "Discount Pharmacy"
+    },
+    "Discount Drugstore": {
+      "de": "Verkauf Apotheke",
+      "fr": "Pharmacie avec une remise",
+      "es": "Farmacia con descuentos",
+      "it": "Farmacia con sconti"
+    },
+    "Sale Pharmacy": {
+      "de": "Verkauf Drogerie",
+      "fr": "Vente pharmacie",
+      "es": "Farmacia con rebajas",
+      "it": "Farmacia con saldi"
+    },
+    "Sale Drugstore": {
+      "de": "Internet Apotheke",
+      "fr": "Vente pharmacie",
+      "es": "Farmacia con rebajas",
+      "it": "Farmacia con saldi"
+    },
+    "Online Pharmacy": {
+      "de": "Internet Drogerie",
+      "fr": "Pharmacie en ligne",
+      "es": "Farmacia online",
+      "it": "Farmacia online"
+    },
+    "Online Drugstore": {
+      "de": "Kanadische  Drogerie",
+      "fr": "Pharmacie canadienne",
+      "es": "Farmacia online",
+      "it": "Farmacia online"
+    },
+    "Canadian Drugstore": {
+      "de": "Kanadische Apotheke",
+      "fr": "Pharmacie canadienne",
+      "es": "Farmacia canadese",
+      "it": "Farmacia canadese"
+    },
+    "Canadian Pharmacy": {
+      "de": "Kanadische Apotheke",
+      "fr": "Pharmacie canadienne",
+      "es": "Farmacia canadese",
+      "it": "Farmacia canadese"
+    }
+  },
+  {
+    "Big Sale: -80% off on all meds. Time Limited Offer.": {
+      "de": "Größe Veräußerung: -80% auf alle Medikamente. Zeit  befristes Angebot.",
+      "fr": "Grande svendità: -80% su tutti i farmaci. Offertà limitata.",
+      "es": "Big Sale: -80% off on all meds. Time Limited Offer.",
+      "it": "Grande svendità: -80% su tutti i farmaci. Offertà limitata"
+    },
+    "Buy Cheap Medication Online": {
+      "de": "Kaufen Sie kostengünstige Medikamente online",
+      "fr": "Compra farmaci a buon mercato online",
+      "es": "Buy Cheap Medication Online",
+      "it": "Compra farmaci a buon mercato online"
+    },
+    "Cheap Medicine and Fast Delivery": {
+      "de": "Billige Arzneimittel und schnelle Anlieferung",
+      "fr": "Farmaci a buon mercato e spedizione veloce",
+      "es": "Cheap Medicine and Fast Delivery",
+      "it": "Farmaci a buon mercato e spedizione veloce"
+    },
+    "Buying medication online without prescription": {
+      "de": "Kaufen Sie Medikamente ohne Rezept",
+      "fr": "Compra farmaci online senza prescrizione",
+      "es": "Buying medication online without prescription",
+      "it": "Compra farmaci online senza prescrizione"
+    },
+    "Online Pharmacy: generic and brand medication": {
+      "de": "Online-Apotheke: Generika und Markenmedikamenten",
+      "fr": "Farmacia online: farmaci generici e di marca",
+      "es": "Online Pharmacy: generic and brand medication",
+      "it": "Farmacia online: farmaci generici e di marca"
+    },
+    "Order Medication Online: Antibiotics, Pain Relief, Skin Care": {
+      "de": "Befiehlen Sie Medikamente online: Antibiotika, Schmerzlinderung, Hautpflege",
+      "fr": "Ordina farmaci online: antibiotici, antidolorifici e cura della pelle",
+      "es": "Order Medication Online: Antibiotics, Pain Relief, Skin Care",
+      "it": "Ordina farmaci online: antibiotici, antidolorifici e cura della pelle"
+    },
+    "Online Pharmacy, Lowest Prices": {
+      "de": "Online-Apotheke, billigste Preise",
+      "fr": "Farmacia online, Prezzi inferiori",
+      "es": "Online Pharmacy, Lowest Prices",
+      "it": "Farmacia online, Prezzi inferiori"
+    },
+    "Buy Medication Online: Fast Delivery, High Quality, Lowest Prices, Discounts": {
+      "de": "Kaufen Sie Medikamente Online: Schnelle Lieferung, Qualität, niedrigste Preise, Abzüge",
+      "fr": "Compra farmaci online:  spedizione veloce, alta qualità, prezzi inferiori, sconti",
+      "es": "Buy Medication Online: Fast Delivery, High Quality, Lowest Prices, Discounts",
+      "it": "Compra farmaci online:  spedizione veloce, alta qualità, prezzi inferiori, sconti"
+    }
+  }
+]

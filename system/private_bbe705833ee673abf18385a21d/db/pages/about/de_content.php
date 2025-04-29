@@ -1,0 +1,8 @@
+<h1>Wir freuen uns, Sie in unserer weltweit agierenden online Apotheke begrüßen zu dürfen!</h1>
+<p>Die Apotheke, auf dessen Seite Sie sich gerade befinden, ist eine der führenden internationalen Apotheken auf dem Markt der Lieferung und Distribution von qualitativ hochwertigen Medikamenten. Das primäre Ziel unseres Unternehmens ist  Vertrieb von Markenmedikamenten sowie Generika zu den niedrigsten Preisen, zu denen Sie in Ihrer lokalen Apotheke nie einkaufen  könnten. Wir versenden weltweit und garantieren einen erstklassigen Service. Mit uns sparen Sie Ihr Geld und Zeit.</p>
+<p>Um einen Top-Service zu gewährleisten, konzentrieren wir uns auf die Qualität von den Produkten, die wir anbieten. Zu diesem Zweck arbeiten wir mit den zuverlässigsten Herstellern  und wählen für Sie nur die lizenzierten Medikamente aus.</p>
+<p>Gesundheitszustand  von unseren Kunden und schnelle Lieferung sind unsere Hauptmissionen. Deshalb halten wir uns an den strengsten Sicherheits- und Datenschutzstandards, um Ihre persönlichen Daten und die von der E-Commerce zu schützen. Wir bemühen uns stets Ihnen einen ausgezeichneten und schnellen Service anzubieten, damit Sie mit uns zufrieden sind und in unsere Apotheke wiederkehren.</p>
+<p>Um ein Produkt online zu bestellen, müssen Sie nur noch Ihre Bestellung auf unserer Seite aufgeben. Wenn Sie Komfort beim Einkaufen zu schätzen wissen, ist diese  Art der Bestellung die richtige für Sie! Die Lieferung erfolgt so schnell wie möglich. Es ist außerdem keine Anmeldungen erforderlich und wir sind jederzeit für Sie da!</p>
+<p>Mit freundlichen Grüßen,</p>
+<p>Ihr Kundenservice</p>
+<p>Vielen Dank!</p>

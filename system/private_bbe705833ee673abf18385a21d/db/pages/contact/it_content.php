@@ -1,0 +1,3 @@
+<p>
+    Il nostro Servizio Clienti è sempre alla vostra disposizione. Apprezziamo i rapporti a lungo termine perciò cerchiamo di soddisfare le esigenze e gli interessi di chi si rivolge. Ogni nostro cliente è speciale e importante per noi. Per favore, non esitate a contattarci in caso di qualsiasi domanda o richiesta, lasciandoci il vostro indirizzo email. Sarete ricontattati entro breve tempo da un nostro operatore. Per favore, notate che i nostri operatori parlano inglese.
+</p>

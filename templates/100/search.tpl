@@ -1,0 +1,38 @@
+{include file="!header.tpl"}
+<div class="catalog">
+{if $result_array|@count == 0 && $result_array_ai|@count == 0}
+	<div class="e404">
+		{"Nothing found. You may be interested in our Best Sellers"|mytranslate}
+	</div>
+{/if}
+{if $result_array|@count > 0}
+	<br />
+	<div class="line">
+	{foreach item=v key=k from=$result_array name=resultArr}
+	    {assign var=keyx value=$v.1}
+	    <a class="e" href="{$BASE_FOLDER}categories/{$v.2|replace:' ':'-'}/{$config_array.pill_prefix}{$k|replace:' ':'-'}{$config_array.pill_postfix}">
+	        <img src="{$BASE_FOLDER}system/images/{$k|strtolower}.jpg" width="80" alt="{$k|escape|addslashes}" />
+	        <span>
+	            <i class="name">{$k}</i>
+	            {if $v.3}<span class="ai">{"Active ingredient:"|mytranslate} <span>{$v.3}</span></span>{/if}
+	            <i class="price">
+            		<i>{$currency_symbol}{$v.0|string_format:"%.2f"}</i> {"for pill"|mytranslate}
+	            </i>
+	            <i class="add-to-cart"></i>
+	        </span>
+	        <i class="small-descr">
+            	{$v.1}
+	        </i>
+	    </a>
+	    {if $smarty.foreach.resultArr.iteration is div by 2}
+			</div>
+			<div class="line">
+		{/if}
+	{/foreach}
+	</div>
+	
+{/if}
+
+
+</div>
+{include file="!footer.tpl"}
